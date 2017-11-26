@@ -5,10 +5,10 @@ permalink: /cv/
 published: true
 ---
 
-## Education
+### Education
 
 
-## Publications
+### Publications
 
 
 ### Contact me
