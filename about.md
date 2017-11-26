@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-I am a quantative ecologist working with the US Forest Service to help better understand a variety of topics, including disease ecology and the environmental dangers of illegal marijuana cultivation.
+I am a quantative ecologist working with the US Forest Service. I work on a variety of topics, including disease ecology and the environmental dangers of illegal marijuana cultivation.
 
 ### More Information
 
