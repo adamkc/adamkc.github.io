@@ -13,4 +13,4 @@ I live in Arcata California. I earned a Masters degree from Humboldt State Unive
 
 ### Contact me
 
-[adamkc@gmail.com](mailto:adakmc@gmail.com)
+[adamkc@gmail.com](mailto:adamkc@gmail.com)
