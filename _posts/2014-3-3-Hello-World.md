@@ -14,4 +14,4 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 
 ##Arcata:
 
-<iframe src="//adamkc.github.io/docs/ArcataMap.html" style="border: none; width: 500px; height: 500px"></iframe>
+<iframe src="//adamkc.github.io/docs/mapmarkdown.html" style="border: none; width: 500px; height: 500px"></iframe>
