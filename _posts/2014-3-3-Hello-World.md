@@ -12,4 +12,6 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 
 <iframe src="//rstudio-pubs-static.s3.amazonaws.com/153761_476a1405f73f4c26a2fc6e5a4ede0384.html" style="border: none"></iframe>
 
+##Arcata:
+
 <iframe src="//adamkc.github.io/docs/ArcataMap.html" style="border: none; width: 500px; height: 500px"></iframe>
