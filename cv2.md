@@ -2,7 +2,7 @@
 layout: page
 title: CV
 permalink: /cv/
-published: TRUE
+published: FALSE
 ---
 
 Adam Cummings
