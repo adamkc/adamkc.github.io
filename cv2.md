@@ -2,7 +2,7 @@
 layout: page
 title: CV
 permalink: /cv/
-published: FALSE
+published: TRUE
 ---
 
 Adam Cummings
@@ -64,24 +64,12 @@ Open Source
     (with [link](http://nodejs.org)) which was actually totally
     your idea...
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+Programming Languages and Packages
+:   **Proficient:** R, Mark, Jags, NetLogo.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **Passing:** Python, Tensorflow.
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   **Forgotten:** C++.
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
