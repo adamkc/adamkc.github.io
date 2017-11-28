@@ -11,7 +11,7 @@ Adam Cummings
 ----
 
 >  We are what we pretend to be, 
->    so we must be careful about what we pretend to be.
+>  so we must be careful about what we pretend to be.
 
 ----
 
@@ -19,15 +19,18 @@ Education
 ---------
 
 2017-2018
-:   **Online Certificate, Geospatial Analysis** ; Humboldt State University (Arcata, CA)
+:   **Online Certificate, Geospatial Analysis**; 
+Humboldt State University (Arcata, CA)
 
 2011-2015
-:   **MS,Biology**; Humboldt State University (Arcata, CA)
+:   **MS, Biology**; 
+Humboldt State University (Arcata, CA)
 
     *Thesis: Evolution of an aquatic courtship pheromone in the genus Taricha*
 
 2005-2009 
-:   **BS, Biology**; New Mexico Tech (Socorro, NM)
+:   **BS, Biology**; 
+New Mexico Tech (Socorro, NM)
 
     *Molecular and Microbiology emphasis*
 
@@ -45,29 +48,12 @@ links:
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
 
-
-Technical Experience
+Programming Languages and Packages
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages and Packages
 :   **Proficient:** R, Mark, Jags, NetLogo.
 
-:   **Passing:** Python, Tensorflow.
+:   **Passing:** Python, Tensorflow, GitHub.
 
 :   **Forgotten:** C++.
 
@@ -76,15 +62,16 @@ Programming Languages and Packages
 Publications
 ----------------------------------------
 
-* Human Languages:
+* Published:
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+* In Review:
 
-* Random tidbit
+     * [R. boylii calling phenology](brokenlink)
+     * [Stream breening amphbibians response to disturbance](brokenlink)
 
-* Other sort of impressive-sounding thing you did
+* In Prep:
+     * Environmental DNA and longer term monitoring of stream breeding amphibians
+     * 
 
 ----
 
