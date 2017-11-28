@@ -71,7 +71,13 @@ Publications
 
 * In Prep:
      * Environmental DNA and longer term monitoring of stream breeding amphibians
-     * 
+     
+References
+------------------------------------
+
+*He's the best!* - Adam's mom
+
+*I would probably hire him* - Adam's girlfriend
 
 ----
 
