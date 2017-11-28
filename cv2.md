@@ -10,9 +10,8 @@ Adam Cummings
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  We are what we pretend to be, 
+>    so we must be careful about what we pretend to be.
 
 ----
 
