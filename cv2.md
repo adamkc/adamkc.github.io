@@ -2,7 +2,7 @@
 layout: page
 title: CV
 permalink: /cv/
-published: true
+published: FALSE
 ---
 
 Adam Cummings
@@ -31,10 +31,10 @@ Education
 
     *Molecular and Microbiology emphasis*
 
-Experience
+Teaching Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Humboldt State University:**
 
 Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
@@ -45,9 +45,6 @@ links:
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
 
-**That Other Job You Had**
-
-Also with a short description.
 
 Technical Experience
 --------------------
@@ -88,7 +85,7 @@ Programming Languages
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
-Extra Section, Call it Whatever You Want
+Publications
 ----------------------------------------
 
 * Human Languages:
