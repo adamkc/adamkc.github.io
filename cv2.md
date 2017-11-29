@@ -19,13 +19,16 @@ Education
 ---------
 
 *2017-2018*: Humboldt State University (Arcata, CA)
+
 > **Online Certificate, Geospatial Analysis**
 
 *2011-2015*: Humboldt State University (Arcata, CA)  
+
 > **MS, Biology** 
 > *__Thesis:__ Evolution of an aquatic courtship pheromone in the genus Taricha*
 
 *2005-2009*: New Mexico Tech (Socorro, NM)  
+
 > **BS, Biology**; 
 > *Molecular and Microbiology emphasis*
 
