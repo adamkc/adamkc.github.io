@@ -18,19 +18,16 @@ Adam Cummings
 Education
 ---------
 
-2017-2018
-:   **Online Certificate, Geospatial Analysis**; 
-Humboldt State University (Arcata, CA)
+*2017-2018*: Humboldt State University (Arcata, CA)
+**Online Certificate, Geospatial Analysis**
 
-2011-2015
-:   **MS, Biology**; 
-Humboldt State University (Arcata, CA)
+*2011-2015*: Humboldt State University (Arcata, CA)  
+**MS, Biology** 
 
-    *Thesis: Evolution of an aquatic courtship pheromone in the genus Taricha*
+    *__Thesis:__ Evolution of an aquatic courtship pheromone in the genus Taricha*
 
-2005-2009 
-:   **BS, Biology**; 
-New Mexico Tech (Socorro, NM)
+*2005-2009*: New Mexico Tech (Socorro, NM)  
+**BS, Biology**; 
 
     *Molecular and Microbiology emphasis*
 
@@ -51,11 +48,11 @@ links:
 Programming Languages and Packages
 --------------------
 
-:   **Proficient:** R, Mark, Jags, NetLogo.
+   **Proficient:** R, Mark, Jags, NetLogo.
 
-:   **Passing:** Python, Tensorflow, GitHub.
+   **Passing:** Python, Tensorflow, GitHub.
 
-:   **Forgotten:** C++.
+   **Forgotten:** C++.
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
@@ -75,9 +72,11 @@ Publications
 References
 ------------------------------------
 
-*He's the best!* - Adam's mom
+*He's the best!* -Adam's mom
 
-*I would probably hire him* - Adam's girlfriend
+*In general, he's our best son."* -Adam's dad.
+
+*I would probably hire him.* -Adam's girlfriend
 
 ----
 
