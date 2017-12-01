@@ -61,7 +61,7 @@ Publications
 * In Review:
 
      * [R. boylii calling phenology](brokenlink)
-     * [Stream breening amphbibians response to disturbance](brokenlink)
+     * [Stream breeding amphibians response to disturbance in ancient redwood forests](brokenlink)
 
 * In Prep:
      * Environmental DNA and longer term monitoring of stream breeding amphibians
