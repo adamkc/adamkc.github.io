@@ -11,7 +11,7 @@ Adam Cummings
 ----
 
 >  We are what we pretend to be, 
->  so we must be careful about what we pretend to be.
+>  so we must be careful about what we pretend to be. -Vonnegut
 
 ----
 
@@ -75,7 +75,7 @@ References
 
 *He's the best!* -Adam's mom
 
-*In general, he's our best son."* -Adam's dad.
+*In general, he's our best son.* -Adam's dad.
 
 *I would probably hire him.* -Adam's girlfriend
 
