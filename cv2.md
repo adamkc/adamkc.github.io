@@ -10,8 +10,8 @@ Adam Cummings
 
 ----
 
->  We are what we pretend to be,  
->  so we must be careful about what we pretend to be. -Vonnegut
+> <adamkc@gmail.com> • <adamcumming@fs.fed.us>  
+> Arcata, California
 
 ----
 
@@ -54,6 +54,7 @@ Publications
 ----------------------------------------
 
 * Published:
+     * :(
 
 * In Review:
 
@@ -73,6 +74,3 @@ References
 *I would probably hire him.* -Adam's girlfriend
 
 ----
-
-> <adamkc@gmail.com> • <adamcumming@fs.fed.us>  
-> Arcata, California
