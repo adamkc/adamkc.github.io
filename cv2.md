@@ -10,7 +10,7 @@ Adam Cummings
 
 ----
 
-> <adamkc@gmail.com> • <adamcumming@fs.fed.us>  
+> <adamkc@gmail.com> • <adamcummings@fs.fed.us>  
 > Arcata, California
 
 ----
@@ -64,7 +64,7 @@ Publications
      * [Stream breeding amphibians response to disturbance in ancient redwood forests](brokenlink)
 
 * In Prep:
-     * Environmental DNA and longer term monitoring of stream breeding amphibians
+     * Environmental DNA and long term monitoring of stream breeding amphibians
      
 References
 ------------------------------------
