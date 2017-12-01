@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: CV
 permalink: /cv/
@@ -10,7 +10,7 @@ Adam Cummings
 
 ----
 
->  We are what we pretend to be, 
+>  We are what we pretend to be,\ 
 >  so we must be careful about what we pretend to be. -Vonnegut
 
 ----
@@ -37,25 +37,18 @@ Teaching Experience
 
 **Humboldt State University:**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+* Labs: General Biology, General Botany, Ecology, Biology for non-majors
 
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Courses: Herptile Management
 
 Programming Languages and Packages
 --------------------
 
-   **Proficient:** R, Mark, Jags, NetLogo.
+   **Proficient:** R, Mark, Jags, NetLogo, ArcMap.
 
-   **Passing:** Python, Tensorflow, GitHub.
+   **Passing:** Python, Tensorflow, GitHub, QGIS.
 
    **Forgotten:** C++.
-
-[ref]: https://github.com/githubuser/superlongprojectname
 
 Publications
 ----------------------------------------
@@ -81,5 +74,5 @@ References
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <adamkc@gmail.com> • <adamcumming@fs.fed.us>\
+> Arcata, California
