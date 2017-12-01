@@ -10,7 +10,7 @@ Adam Cummings
 
 ----
 
->  We are what we pretend to be,\ 
+>  We are what we pretend to be,  
 >  so we must be careful about what we pretend to be. -Vonnegut
 
 ----
@@ -74,5 +74,5 @@ References
 
 ----
 
-> <adamkc@gmail.com> • <adamcumming@fs.fed.us>\
+> <adamkc@gmail.com> • <adamcumming@fs.fed.us>  
 > Arcata, California
