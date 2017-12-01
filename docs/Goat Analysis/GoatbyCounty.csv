@@ -1,0 +1,3080 @@
+FIPSTEXT,CountyName,Entity,StateName,Goats
+01001,Autauga,County,Alabama,0.77
+01003,Baldwin,County,Alabama,0.66
+01005,Barbour,County,Alabama,0.21
+01007,Bibb,County,Alabama,0.57
+01009,Blount,County,Alabama,0.72
+01011,Bullock,County,Alabama,0.28
+01013,Butler,County,Alabama,0.74
+01015,Calhoun,County,Alabama,1.09
+01017,Chambers,County,Alabama,0.34
+01019,Cherokee,County,Alabama,0.51
+01021,Chilton,County,Alabama,0.88
+01023,Choctaw,County,Alabama,0.89
+01025,Clarke,County,Alabama,0.99
+01027,Clay,County,Alabama,0.22
+01029,Cleburne,County,Alabama,0.44
+01031,Coffee,County,Alabama,0.26
+01033,Colbert,County,Alabama,0.44
+01035,Conecuh,County,Alabama,0.19
+01037,Coosa,County,Alabama,0.24
+01039,Covington,County,Alabama,0.41
+01041,Crenshaw,County,Alabama,0.30
+01043,Cullman,County,Alabama,1.19
+01045,Dale,County,Alabama,0.36
+01047,Dallas,County,Alabama,0.16
+01049,DeKalb,County,Alabama,0.86
+01051,Elmore,County,Alabama,1.19
+01053,Escambia,County,Alabama,0.53
+01055,Etowah,County,Alabama,1.19
+01057,Fayette,County,Alabama,0.36
+01059,Franklin,County,Alabama,0.38
+01061,Geneva,County,Alabama,0.32
+01063,Greene,County,Alabama,0.07
+01065,Hale,County,Alabama,0.10
+01067,Henry,County,Alabama,0.16
+01069,Houston,County,Alabama,0.31
+01071,Jackson,County,Alabama,1.29
+01073,Jefferson,County,Alabama,2.19
+01075,Lamar,County,Alabama,0.60
+01077,Lauderdale,County,Alabama,1.16
+01079,Lawrence,County,Alabama,0.90
+01081,Lee,County,Alabama,1.76
+01083,Limestone,County,Alabama,0.73
+01085,Lowndes,County,Alabama,0.17
+01087,Macon,County,Alabama,0.83
+01089,Madison,County,Alabama,0.67
+01091,Marengo,County,Alabama,0.55
+01093,Marion,County,Alabama,0.36
+01095,Marshall,County,Alabama,0.85
+01097,Mobile,County,Alabama,1.18
+01099,Monroe,County,Alabama,0.53
+01101,Montgomery,County,Alabama,0.35
+01103,Morgan,County,Alabama,1.08
+01105,Perry,County,Alabama,0.29
+01107,Pickens,County,Alabama,0.32
+01109,Pike,County,Alabama,0.23
+01111,Randolph,County,Alabama,0.27
+01113,Russell,County,Alabama,1.20
+01115,St. Clair,County,Alabama,1.28
+01117,Shelby,County,Alabama,1.06
+01119,Sumter,County,Alabama,0.14
+01121,Talladega,County,Alabama,0.91
+01123,Tallapoosa,County,Alabama,0.98
+01125,Tuscaloosa,County,Alabama,0.92
+01127,Walker,County,Alabama,1.13
+01129,Washington,County,Alabama,0.83
+01131,Wilcox,County,Alabama,0.21
+01133,Winston,County,Alabama,0.63
+02010,Aleutian Islands Area,Agricultural Census Area,Alaska,(D)
+02020,Anchorage Area,Agricultural Census Area,Alaska,0.94
+02090,Fairbanks Area,Agricultural Census Area,Alaska,0.18
+02110,Juneau Area,Agricultural Census Area,Alaska,(D)
+02122,Kenai Peninsula Area,Agricultural Census Area,Alaska,0.18
+04001,Apache,County,Arizona,0.47
+04003,Cochise,County,Arizona,0.23
+04005,Coconino,County,Arizona,0.21
+04007,Gila,County,Arizona,0.02
+04009,Graham,County,Arizona,0.02
+04011,Greenlee,County,Arizona,2.61
+04012,La Paz,County,Arizona,(D)
+04013,Maricopa,County,Arizona,0.61
+04015,Mohave,County,Arizona,0.07
+04017,Navajo,County,Arizona,0.50
+04019,Pima,County,Arizona,(D)
+04021,Pinal,County,Arizona,0.11
+04023,Santa Cruz,County,Arizona,0.07
+04025,Yavapai,County,Arizona,0.05
+04027,Yuma,County,Arizona,0.34
+05001,Arkansas,County,Arkansas,(D)
+05003,Ashley,County,Arkansas,0.20
+05005,Baxter,County,Arkansas,0.79
+05007,Benton,County,Arkansas,0.48
+05009,Boone,County,Arkansas,1.07
+05011,Bradley,County,Arkansas,0.45
+05013,Calhoun,County,Arkansas,0.75
+05015,Carroll,County,Arkansas,0.66
+05017,Chicot,County,Arkansas,0.03
+05019,Clark,County,Arkansas,0.35
+05021,Clay,County,Arkansas,0.09
+05023,Cleburne,County,Arkansas,0.57
+05025,Cleveland,County,Arkansas,1.49
+05027,Columbia,County,Arkansas,0.47
+05029,Conway,County,Arkansas,0.33
+05031,Craighead,County,Arkansas,0.06
+05033,Crawford,County,Arkansas,0.56
+05035,Crittenden,County,Arkansas,0.01
+05037,Cross,County,Arkansas,0.01
+05039,Dallas,County,Arkansas,0.66
+05041,Desha,County,Arkansas,0.02
+05043,Drew,County,Arkansas,0.10
+05045,Faulkner,County,Arkansas,1.05
+05047,Franklin,County,Arkansas,0.08
+05049,Fulton,County,Arkansas,1.61
+05051,Garland,County,Arkansas,1.11
+05053,Grant,County,Arkansas,0.57
+05055,Greene,County,Arkansas,0.10
+05057,Hempstead,County,Arkansas,0.21
+05059,Hot Spring,County,Arkansas,1.46
+05061,Howard,County,Arkansas,0.12
+05063,Independence,County,Arkansas,0.53
+05065,Izard,County,Arkansas,0.09
+05067,Jackson,County,Arkansas,0.03
+05069,Jefferson,County,Arkansas,0.04
+05071,Johnson,County,Arkansas,0.40
+05073,Lafayette,County,Arkansas,0.07
+05075,Lawrence,County,Arkansas,0.28
+05077,Lee,County,Arkansas,0.00
+05079,Lincoln,County,Arkansas,0.12
+05081,Little River,County,Arkansas,0.05
+05083,Logan,County,Arkansas,0.20
+05085,Lonoke,County,Arkansas,0.15
+05087,Madison,County,Arkansas,0.34
+05089,Marion,County,Arkansas,1.20
+05091,Miller,County,Arkansas,0.15
+05093,Mississippi,County,Arkansas,(D)
+05095,Monroe,County,Arkansas,0.02
+05097,Montgomery,County,Arkansas,0.18
+05099,Nevada,County,Arkansas,0.30
+05101,Newton,County,Arkansas,1.89
+05103,Ouachita,County,Arkansas,0.79
+05105,Perry,County,Arkansas,0.41
+05107,Phillips,County,Arkansas,0.01
+05109,Pike,County,Arkansas,0.16
+05111,Poinsett,County,Arkansas,0.01
+05113,Polk,County,Arkansas,0.64
+05115,Pope,County,Arkansas,0.53
+05117,Prairie,County,Arkansas,0.12
+05119,Pulaski,County,Arkansas,0.39
+05121,Randolph,County,Arkansas,0.48
+05123,St. Francis,County,Arkansas,0.05
+05125,Saline,County,Arkansas,1.50
+05127,Scott,County,Arkansas,0.19
+05129,Searcy,County,Arkansas,0.36
+05131,Sebastian,County,Arkansas,0.39
+05133,Sevier,County,Arkansas,0.66
+05135,Sharp,County,Arkansas,0.43
+05137,Stone,County,Arkansas,0.51
+05139,Union,County,Arkansas,0.69
+05141,Van Buren,County,Arkansas,0.37
+05143,Washington,County,Arkansas,0.49
+05145,White,County,Arkansas,0.51
+05147,Woodruff,County,Arkansas,0.00
+05149,Yell,County,Arkansas,0.25
+06001,Alameda,County,California,0.13
+06003,Alpine,County,California,(D)
+06005,Amador,County,California,1.15
+06007,Butte,County,California,0.38
+06009,Calaveras,County,California,1.14
+06011,Colusa,County,California,0.15
+06013,Contra Costa,County,California,(D)
+06015,Del Norte,County,California,(D)
+06017,El Dorado,County,California,2.58
+06019,Fresno,County,California,0.41
+06021,Glenn,County,California,0.17
+06023,Humboldt,County,California,0.50
+06025,Imperial,County,California,0.06
+06027,Inyo,County,California,0.00
+06029,Kern,County,California,0.12
+06031,Kings,County,California,0.89
+06033,Lake,County,California,1.17
+06035,Lassen,County,California,(D)
+06037,Los Angeles,County,California,1.39
+06039,Madera,County,California,0.15
+06041,Marin,County,California,1.86
+06043,Mariposa,County,California,0.39
+06045,Mendocino,County,California,0.22
+06047,Merced,County,California,0.54
+06049,Modoc,County,California,0.39
+06051,Mono,County,California,0.11
+06053,Monterey,County,California,0.05
+06055,Napa,County,California,0.52
+06057,Nevada,County,California,3.45
+06059,Orange,County,California,0.00
+06061,Placer,County,California,3.68
+06063,Plumas,County,California,0.03
+06065,Riverside,County,California,1.48
+06067,Sacramento,County,California,3.08
+06069,San Benito,County,California,0.18
+06071,San Bernardino,County,California,2.54
+06073,San Diego,County,California,1.06
+06075,San Francisco,County,California,0.00
+06077,San Joaquin,County,California,0.36
+06079,San Luis Obispo,County,California,0.10
+06081,San Mateo,County,California,0.21
+06083,Santa Barbara,County,California,0.13
+06085,Santa Clara,County,California,0.28
+06087,Santa Cruz,County,California,3.56
+06089,Shasta,County,California,0.86
+06091,Sierra,County,California,0.00
+06093,Siskiyou,County,California,0.13
+06095,Solano,County,California,0.92
+06097,Sonoma,County,California,1.65
+06099,Stanislaus,County,California,2.73
+06101,Sutter,County,California,0.23
+06103,Tehama,County,California,1.01
+06105,Trinity,County,California,(D)
+06107,Tulare,County,California,0.10
+06109,Tuolumne,County,California,1.38
+06111,Ventura,County,California,0.11
+06113,Yolo,County,California,0.22
+06115,Yuba,County,California,0.85
+08001,Adams,County,Colorado,0.21
+08003,Alamosa,County,Colorado,0.30
+08005,Arapahoe,County,Colorado,0.23
+08007,Archuleta,County,Colorado,0.17
+08009,Baca,County,Colorado,0.05
+08011,Bent,County,Colorado,0.05
+08013,Boulder,County,Colorado,0.52
+08014,Broomfield,County,Colorado,(D)
+08015,Chaffee,County,Colorado,0.58
+08017,Cheyenne,County,Colorado,0.07
+08019,Clear Creek,County,Colorado,0.72
+08021,Conejos,County,Colorado,0.08
+08023,Costilla,County,Colorado,0.11
+08025,Crowley,County,Colorado,0.02
+08027,Custer,County,Colorado,0.01
+08029,Delta,County,Colorado,0.68
+08031,Denver,County,Colorado,(D)
+08033,Dolores,County,Colorado,0.12
+08035,Douglas,County,Colorado,0.38
+08037,Eagle,County,Colorado,0.07
+08039,Elbert,County,Colorado,0.07
+08041,El Paso,County,Colorado,0.26
+08043,Fremont,County,Colorado,0.88
+08045,Garfield,County,Colorado,0.19
+08047,Gilpin,County,Colorado,0.00
+08049,Grand,County,Colorado,0.11
+08051,Gunnison,County,Colorado,0.13
+08053,Hinsdale,County,Colorado,0.00
+08055,Huerfano,County,Colorado,0.03
+08057,Jackson,County,Colorado,0.01
+08059,Jefferson,County,Colorado,0.58
+08061,Kiowa,County,Colorado,0.01
+08063,Kit Carson,County,Colorado,0.00
+08065,Lake,County,Colorado,(D)
+08067,La Plata,County,Colorado,0.10
+08069,Larimer,County,Colorado,0.30
+08071,Las Animas,County,Colorado,0.02
+08073,Lincoln,County,Colorado,0.01
+08075,Logan,County,Colorado,0.06
+08077,Mesa,County,Colorado,0.43
+08079,Mineral,County,Colorado,0.00
+08081,Moffat,County,Colorado,0.07
+08083,Montezuma,County,Colorado,0.11
+08085,Montrose,County,Colorado,0.20
+08087,Morgan,County,Colorado,0.11
+08089,Otero,County,Colorado,0.16
+08091,Ouray,County,Colorado,(D)
+08093,Park,County,Colorado,0.06
+08095,Phillips,County,Colorado,(D)
+08097,Pitkin,County,Colorado,0.04
+08099,Prowers,County,Colorado,0.04
+08101,Pueblo,County,Colorado,0.13
+08103,Rio Blanco,County,Colorado,0.07
+08105,Rio Grande,County,Colorado,0.25
+08107,Routt,County,Colorado,0.10
+08109,Saguache,County,Colorado,0.04
+08111,San Juan,County,Colorado,0.00
+08113,San Miguel,County,Colorado,0.02
+08115,Sedgwick,County,Colorado,0.02
+08117,Summit,County,Colorado,0.00
+08119,Teller,County,Colorado,0.14
+08121,Washington,County,Colorado,0.08
+08123,Weld,County,Colorado,0.22
+08125,Yuma,County,Colorado,0.05
+09001,Fairfield,County,Connecticut,0.42
+09003,Hartford,County,Connecticut,1.89
+09005,Litchfield,County,Connecticut,0.93
+09007,Middlesex,County,Connecticut,1.56
+09009,New Haven,County,Connecticut,1.14
+09011,New London,County,Connecticut,1.10
+09013,Tolland,County,Connecticut,0.87
+09015,Windham,County,Connecticut,0.52
+10001,Kent,County,Delaware,0.48
+10003,New Castle,County,Delaware,0.43
+10005,Sussex,County,Delaware,0.33
+12001,Alachua,County,Florida,1.81
+12003,Baker,County,Florida,2.59
+12005,Bay,County,Florida,2.03
+12007,Bradford,County,Florida,1.44
+12009,Brevard,County,Florida,0.33
+12011,Broward,County,Florida,3.69
+12013,Calhoun,County,Florida,0.98
+12015,Charlotte,County,Florida,0.17
+12017,Citrus,County,Florida,2.23
+12019,Clay,County,Florida,0.89
+12021,Collier,County,Florida,0.37
+12023,Columbia,County,Florida,1.76
+12027,DeSoto,County,Florida,0.10
+12029,Dixie,County,Florida,0.79
+12031,Duval,County,Florida,2.07
+12033,Escambia,County,Florida,1.27
+12035,Flagler,County,Florida,0.20
+12037,Franklin,County,Florida,0.00
+12039,Gadsden,County,Florida,0.85
+12041,Gilchrist,County,Florida,1.93
+12043,Glades,County,Florida,0.01
+12045,Gulf,County,Florida,(D)
+12047,Hamilton,County,Florida,0.51
+12049,Hardee,County,Florida,0.11
+12051,Hendry,County,Florida,0.03
+12053,Hernando,County,Florida,1.67
+12055,Highlands,County,Florida,0.18
+12057,Hillsborough,County,Florida,1.10
+12059,Holmes,County,Florida,0.48
+12061,Indian River,County,Florida,0.14
+12063,Jackson,County,Florida,0.29
+12065,Jefferson,County,Florida,0.59
+12067,Lafayette,County,Florida,0.41
+12069,Lake,County,Florida,1.24
+12071,Lee,County,Florida,1.85
+12073,Leon,County,Florida,0.58
+12075,Levy,County,Florida,0.72
+12077,Liberty,County,Florida,0.68
+12079,Madison,County,Florida,0.66
+12081,Manatee,County,Florida,0.12
+12083,Marion,County,Florida,1.10
+12085,Martin,County,Florida,0.52
+12086,Miami-Dade,County,Florida,1.86
+12087,Monroe,County,Florida,0.00
+12089,Nassau,County,Florida,1.84
+12091,Okaloosa,County,Florida,0.93
+12093,Okeechobee,County,Florida,0.16
+12095,Orange,County,Florida,0.48
+12097,Osceola,County,Florida,0.08
+12099,Palm Beach,County,Florida,0.29
+12101,Pasco,County,Florida,0.82
+12103,Pinellas,County,Florida,(D)
+12105,Polk,County,Florida,0.43
+12107,Putnam,County,Florida,0.94
+12109,St. Johns,County,Florida,0.69
+12111,St. Lucie,County,Florida,0.16
+12113,Santa Rosa,County,Florida,0.66
+12115,Sarasota,County,Florida,0.36
+12117,Seminole,County,Florida,0.74
+12119,Sumter,County,Florida,0.62
+12121,Suwannee,County,Florida,0.83
+12123,Taylor,County,Florida,0.91
+12125,Union,County,Florida,0.52
+12127,Volusia,County,Florida,2.05
+12129,Wakulla,County,Florida,0.86
+12131,Walton,County,Florida,0.49
+12133,Washington,County,Florida,0.46
+13001,Appling,County,Georgia,0.21
+13003,Atkinson,County,Georgia,0.60
+13005,Bacon,County,Georgia,0.61
+13007,Baker,County,Georgia,0.06
+13009,Baldwin,County,Georgia,1.72
+13011,Banks,County,Georgia,1.13
+13013,Barrow,County,Georgia,1.15
+13015,Bartow,County,Georgia,1.54
+13017,Ben Hill,County,Georgia,1.07
+13019,Berrien,County,Georgia,0.80
+13021,Bibb,County,Georgia,1.10
+13023,Bleckley,County,Georgia,0.87
+13025,Brantley,County,Georgia,1.83
+13027,Brooks,County,Georgia,0.47
+13029,Bryan,County,Georgia,1.30
+13031,Bulloch,County,Georgia,0.19
+13033,Burke,County,Georgia,0.25
+13035,Butts,County,Georgia,1.23
+13037,Calhoun,County,Georgia,0.00
+13039,Camden,County,Georgia,0.15
+13043,Candler,County,Georgia,0.54
+13045,Carroll,County,Georgia,0.85
+13047,Catoosa,County,Georgia,0.51
+13049,Charlton,County,Georgia,3.10
+13051,Chatham,County,Georgia,(D)
+13053,Chattahoochee,County,Georgia,0.00
+13055,Chattooga,County,Georgia,0.66
+13057,Cherokee,County,Georgia,3.80
+13059,Clarke,County,Georgia,2.07
+13061,Clay,County,Georgia,(D)
+13063,Clayton,County,Georgia,7.31
+13065,Clinch,County,Georgia,0.51
+13067,Cobb,County,Georgia,9.92
+13069,Coffee,County,Georgia,0.83
+13071,Colquitt,County,Georgia,0.09
+13073,Columbia,County,Georgia,2.27
+13075,Cook,County,Georgia,0.26
+13077,Coweta,County,Georgia,1.71
+13079,Crawford,County,Georgia,0.68
+13081,Crisp,County,Georgia,0.16
+13083,Dade,County,Georgia,1.30
+13085,Dawson,County,Georgia,2.14
+13087,Decatur,County,Georgia,0.05
+13089,DeKalb,County,Georgia,0.00
+13091,Dodge,County,Georgia,0.84
+13093,Dooly,County,Georgia,0.07
+13095,Dougherty,County,Georgia,0.11
+13097,Douglas,County,Georgia,1.38
+13099,Early,County,Georgia,0.15
+13101,Echols,County,Georgia,0.48
+13103,Effingham,County,Georgia,1.49
+13105,Elbert,County,Georgia,0.71
+13107,Emanuel,County,Georgia,0.39
+13109,Evans,County,Georgia,0.90
+13111,Fannin,County,Georgia,0.58
+13113,Fayette,County,Georgia,1.23
+13115,Floyd,County,Georgia,0.95
+13117,Forsyth,County,Georgia,1.00
+13119,Franklin,County,Georgia,0.67
+13121,Fulton,County,Georgia,1.67
+13123,Gilmer,County,Georgia,0.47
+13125,Glascock,County,Georgia,3.70
+13127,Glynn,County,Georgia,5.92
+13129,Gordon,County,Georgia,0.75
+13131,Grady,County,Georgia,0.18
+13133,Greene,County,Georgia,0.59
+13135,Gwinnett,County,Georgia,3.74
+13137,Habersham,County,Georgia,17.82
+13139,Hall,County,Georgia,1.74
+13141,Hancock,County,Georgia,1.29
+13143,Haralson,County,Georgia,1.54
+13145,Harris,County,Georgia,0.15
+13147,Hart,County,Georgia,1.74
+13149,Heard,County,Georgia,1.15
+13151,Henry,County,Georgia,3.41
+13153,Houston,County,Georgia,0.85
+13155,Irwin,County,Georgia,0.78
+13157,Jackson,County,Georgia,1.13
+13159,Jasper,County,Georgia,1.47
+13161,Jeff Davis,County,Georgia,0.26
+13163,Jefferson,County,Georgia,0.47
+13165,Jenkins,County,Georgia,0.21
+13167,Johnson,County,Georgia,1.07
+13169,Jones,County,Georgia,3.86
+13171,Lamar,County,Georgia,0.72
+13173,Lanier,County,Georgia,0.33
+13175,Laurens,County,Georgia,0.34
+13177,Lee,County,Georgia,0.25
+13179,Liberty,County,Georgia,2.49
+13181,Lincoln,County,Georgia,0.79
+13183,Long,County,Georgia,(D)
+13185,Lowndes,County,Georgia,0.50
+13187,Lumpkin,County,Georgia,0.73
+13189,McDuffie,County,Georgia,0.97
+13191,McIntosh,County,Georgia,0.26
+13193,Macon,County,Georgia,0.26
+13195,Madison,County,Georgia,1.73
+13197,Marion,County,Georgia,0.96
+13199,Meriwether,County,Georgia,0.92
+13201,Miller,County,Georgia,0.14
+13205,Mitchell,County,Georgia,0.27
+13207,Monroe,County,Georgia,0.90
+13209,Montgomery,County,Georgia,0.99
+13211,Morgan,County,Georgia,0.58
+13213,Murray,County,Georgia,0.69
+13215,Muscogee,County,Georgia,(D)
+13217,Newton,County,Georgia,1.01
+13219,Oconee,County,Georgia,1.08
+13221,Oglethorpe,County,Georgia,0.54
+13223,Paulding,County,Georgia,2.63
+13225,Peach,County,Georgia,2.10
+13227,Pickens,County,Georgia,1.30
+13229,Pierce,County,Georgia,0.78
+13231,Pike,County,Georgia,1.32
+13233,Polk,County,Georgia,0.95
+13235,Pulaski,County,Georgia,0.56
+13237,Putnam,County,Georgia,0.41
+13239,Quitman,County,Georgia,0.00
+13241,Rabun,County,Georgia,3.42
+13243,Randolph,County,Georgia,(D)
+13245,Richmond,County,Georgia,0.80
+13247,Rockdale,County,Georgia,2.71
+13249,Schley,County,Georgia,0.23
+13251,Screven,County,Georgia,0.19
+13253,Seminole,County,Georgia,0.14
+13255,Spalding,County,Georgia,2.21
+13257,Stephens,County,Georgia,2.25
+13259,Stewart,County,Georgia,0.00
+13261,Sumter,County,Georgia,0.12
+13263,Talbot,County,Georgia,1.11
+13265,Taliaferro,County,Georgia,1.41
+13267,Tattnall,County,Georgia,0.65
+13269,Taylor,County,Georgia,0.69
+13271,Telfair,County,Georgia,(D)
+13273,Terrell,County,Georgia,0.07
+13275,Thomas,County,Georgia,0.21
+13277,Tift,County,Georgia,0.41
+13279,Toombs,County,Georgia,0.39
+13281,Towns,County,Georgia,0.39
+13283,Treutlen,County,Georgia,1.02
+13285,Troup,County,Georgia,1.18
+13287,Turner,County,Georgia,0.26
+13289,Twiggs,County,Georgia,0.79
+13291,Union,County,Georgia,0.16
+13293,Upson,County,Georgia,(D)
+13295,Walker,County,Georgia,0.76
+13297,Walton,County,Georgia,1.13
+13299,Ware,County,Georgia,0.53
+13301,Warren,County,Georgia,0.79
+13303,Washington,County,Georgia,0.95
+13305,Wayne,County,Georgia,0.75
+13307,Webster,County,Georgia,0.08
+13309,Wheeler,County,Georgia,0.42
+13311,White,County,Georgia,1.87
+13313,Whitfield,County,Georgia,0.76
+13315,Wilcox,County,Georgia,0.08
+13317,Wilkes,County,Georgia,0.75
+13319,Wilkinson,County,Georgia,2.73
+13321,Worth,County,Georgia,0.18
+15001,Hawaii,County,Hawaii,0.60
+15003,Honolulu,County,Hawaii,1.04
+15007,Kauai,County,Hawaii,0.95
+15009,Maui,County,Hawaii,2.97
+16001,Ada,County,Idaho,0.65
+16003,Adams,County,Idaho,0.14
+16005,Bannock,County,Idaho,0.09
+16007,Bear Lake,County,Idaho,0.38
+16009,Benewah,County,Idaho,0.05
+16011,Bingham,County,Idaho,0.10
+16013,Blaine,County,Idaho,(D)
+16015,Boise,County,Idaho,(D)
+16017,Bonner,County,Idaho,0.69
+16019,Bonneville,County,Idaho,0.05
+16021,Boundary,County,Idaho,0.31
+16023,Butte,County,Idaho,0.04
+16025,Camas,County,Idaho,(D)
+16027,Canyon,County,Idaho,0.98
+16029,Caribou,County,Idaho,0.03
+16031,Cassia,County,Idaho,0.09
+16033,Clark,County,Idaho,0.00
+16035,Clearwater,County,Idaho,0.09
+16037,Custer,County,Idaho,0.21
+16039,Elmore,County,Idaho,0.05
+16041,Franklin,County,Idaho,0.14
+16043,Fremont,County,Idaho,0.06
+16045,Gem,County,Idaho,0.45
+16047,Gooding,County,Idaho,0.30
+16049,Idaho,County,Idaho,0.25
+16051,Jefferson,County,Idaho,0.07
+16053,Jerome,County,Idaho,0.12
+16055,Kootenai,County,Idaho,0.33
+16057,Latah,County,Idaho,0.10
+16059,Lemhi,County,Idaho,0.16
+16061,Lewis,County,Idaho,0.04
+16063,Lincoln,County,Idaho,0.19
+16065,Madison,County,Idaho,0.07
+16067,Minidoka,County,Idaho,0.22
+16069,Nez Perce,County,Idaho,0.06
+16071,Oneida,County,Idaho,0.03
+16073,Owyhee,County,Idaho,0.05
+16075,Payette,County,Idaho,0.76
+16077,Power,County,Idaho,(D)
+16079,Shoshone,County,Idaho,(D)
+16081,Teton,County,Idaho,0.02
+16083,Twin Falls,County,Idaho,0.19
+16085,Valley,County,Idaho,0.18
+16087,Washington,County,Idaho,0.07
+17001,Adams,County,Illinois,0.09
+17003,Alexander,County,Illinois,0.32
+17005,Bond,County,Illinois,0.17
+17007,Boone,County,Illinois,0.76
+17009,Brown,County,Illinois,(D)
+17011,Bureau,County,Illinois,0.07
+17013,Calhoun,County,Illinois,0.04
+17015,Carroll,County,Illinois,0.12
+17017,Cass,County,Illinois,0.02
+17019,Champaign,County,Illinois,0.08
+17021,Christian,County,Illinois,0.11
+17023,Clark,County,Illinois,0.07
+17025,Clay,County,Illinois,0.11
+17027,Clinton,County,Illinois,0.10
+17029,Coles,County,Illinois,0.08
+17031,Cook,County,Illinois,0.54
+17033,Crawford,County,Illinois,0.06
+17035,Cumberland,County,Illinois,0.20
+17037,DeKalb,County,Illinois,0.08
+17039,De Witt,County,Illinois,0.02
+17041,Douglas,County,Illinois,0.03
+17043,DuPage,County,Illinois,0.23
+17045,Edgar,County,Illinois,0.13
+17047,Edwards,County,Illinois,0.14
+17049,Effingham,County,Illinois,0.15
+17051,Fayette,County,Illinois,0.22
+17053,Ford,County,Illinois,0.32
+17055,Franklin,County,Illinois,0.18
+17057,Fulton,County,Illinois,0.15
+17059,Gallatin,County,Illinois,(D)
+17061,Greene,County,Illinois,0.11
+17063,Grundy,County,Illinois,0.11
+17065,Hamilton,County,Illinois,0.03
+17067,Hancock,County,Illinois,0.08
+17069,Hardin,County,Illinois,0.06
+17071,Henderson,County,Illinois,0.04
+17073,Henry,County,Illinois,0.15
+17075,Iroquois,County,Illinois,0.08
+17077,Jackson,County,Illinois,0.13
+17079,Jasper,County,Illinois,0.08
+17081,Jefferson,County,Illinois,0.21
+17083,Jersey,County,Illinois,0.10
+17085,Jo Daviess,County,Illinois,0.16
+17087,Johnson,County,Illinois,0.06
+17089,Kane,County,Illinois,0.35
+17091,Kankakee,County,Illinois,0.13
+17093,Kendall,County,Illinois,0.13
+17095,Knox,County,Illinois,0.21
+17097,Lake,County,Illinois,0.66
+17099,LaSalle,County,Illinois,0.12
+17101,Lawrence,County,Illinois,(D)
+17103,Lee,County,Illinois,0.03
+17105,Livingston,County,Illinois,0.03
+17107,Logan,County,Illinois,0.09
+17109,McDonough,County,Illinois,0.04
+17111,McHenry,County,Illinois,0.18
+17113,McLean,County,Illinois,0.10
+17115,Macon,County,Illinois,0.06
+17117,Macoupin,County,Illinois,0.10
+17119,Madison,County,Illinois,0.18
+17121,Marion,County,Illinois,0.11
+17123,Marshall,County,Illinois,0.03
+17125,Mason,County,Illinois,0.09
+17127,Massac,County,Illinois,0.32
+17129,Menard,County,Illinois,0.08
+17131,Mercer,County,Illinois,0.06
+17133,Monroe,County,Illinois,0.10
+17135,Montgomery,County,Illinois,0.15
+17137,Morgan,County,Illinois,0.15
+17139,Moultrie,County,Illinois,0.15
+17141,Ogle,County,Illinois,0.23
+17143,Peoria,County,Illinois,0.11
+17145,Perry,County,Illinois,0.01
+17147,Piatt,County,Illinois,0.06
+17149,Pike,County,Illinois,0.03
+17151,Pope,County,Illinois,0.10
+17153,Pulaski,County,Illinois,0.10
+17155,Putnam,County,Illinois,(D)
+17157,Randolph,County,Illinois,0.14
+17159,Richland,County,Illinois,0.06
+17161,Rock Island,County,Illinois,0.22
+17163,St. Clair,County,Illinois,0.27
+17165,Saline,County,Illinois,0.30
+17167,Sangamon,County,Illinois,0.08
+17169,Schuyler,County,Illinois,0.13
+17171,Scott,County,Illinois,0.06
+17173,Shelby,County,Illinois,0.06
+17175,Stark,County,Illinois,0.10
+17177,Stephenson,County,Illinois,0.19
+17179,Tazewell,County,Illinois,0.07
+17181,Union,County,Illinois,0.16
+17183,Vermilion,County,Illinois,0.06
+17185,Wabash,County,Illinois,(D)
+17187,Warren,County,Illinois,0.17
+17189,Washington,County,Illinois,0.05
+17191,Wayne,County,Illinois,0.08
+17193,White,County,Illinois,0.07
+17195,Whiteside,County,Illinois,0.14
+17197,Will,County,Illinois,0.26
+17199,Williamson,County,Illinois,0.37
+17201,Winnebago,County,Illinois,0.17
+17203,Woodford,County,Illinois,0.17
+18001,Adams,County,Indiana,0.19
+18003,Allen,County,Indiana,0.27
+18005,Bartholomew,County,Indiana,0.29
+18007,Benton,County,Indiana,0.04
+18009,Blackford,County,Indiana,0.30
+18011,Boone,County,Indiana,0.25
+18013,Brown,County,Indiana,0.82
+18015,Carroll,County,Indiana,0.12
+18017,Cass,County,Indiana,0.24
+18019,Clark,County,Indiana,0.87
+18021,Clay,County,Indiana,0.06
+18023,Clinton,County,Indiana,0.12
+18025,Crawford,County,Indiana,0.67
+18027,Daviess,County,Indiana,0.40
+18029,Dearborn,County,Indiana,0.99
+18031,Decatur,County,Indiana,0.18
+18033,DeKalb,County,Indiana,0.16
+18035,Delaware,County,Indiana,0.08
+18037,Dubois,County,Indiana,0.15
+18039,Elkhart,County,Indiana,1.51
+18041,Fayette,County,Indiana,0.46
+18043,Floyd,County,Indiana,1.08
+18045,Fountain,County,Indiana,0.12
+18047,Franklin,County,Indiana,0.28
+18049,Fulton,County,Indiana,0.17
+18051,Gibson,County,Indiana,0.12
+18053,Grant,County,Indiana,0.20
+18055,Greene,County,Indiana,0.52
+18057,Hamilton,County,Indiana,0.30
+18059,Hancock,County,Indiana,0.33
+18061,Harrison,County,Indiana,0.62
+18063,Hendricks,County,Indiana,0.27
+18065,Henry,County,Indiana,0.27
+18067,Howard,County,Indiana,0.40
+18069,Huntington,County,Indiana,0.29
+18071,Jackson,County,Indiana,0.31
+18073,Jasper,County,Indiana,0.18
+18075,Jay,County,Indiana,0.20
+18077,Jefferson,County,Indiana,0.91
+18079,Jennings,County,Indiana,0.43
+18081,Johnson,County,Indiana,0.73
+18083,Knox,County,Indiana,0.09
+18085,Kosciusko,County,Indiana,0.12
+18087,LaGrange,County,Indiana,0.37
+18089,Lake,County,Indiana,0.21
+18091,LaPorte,County,Indiana,0.18
+18093,Lawrence,County,Indiana,0.36
+18095,Madison,County,Indiana,0.19
+18097,Marion,County,Indiana,0.27
+18099,Marshall,County,Indiana,0.22
+18101,Martin,County,Indiana,0.34
+18103,Miami,County,Indiana,0.24
+18105,Monroe,County,Indiana,0.96
+18107,Montgomery,County,Indiana,0.42
+18109,Morgan,County,Indiana,0.20
+18111,Newton,County,Indiana,0.05
+18113,Noble,County,Indiana,0.24
+18115,Ohio,County,Indiana,0.70
+18117,Orange,County,Indiana,0.19
+18119,Owen,County,Indiana,0.51
+18121,Parke,County,Indiana,0.17
+18123,Perry,County,Indiana,0.25
+18125,Pike,County,Indiana,0.25
+18127,Porter,County,Indiana,0.19
+18129,Posey,County,Indiana,0.05
+18131,Pulaski,County,Indiana,0.18
+18133,Putnam,County,Indiana,0.30
+18135,Randolph,County,Indiana,0.20
+18137,Ripley,County,Indiana,0.57
+18139,Rush,County,Indiana,0.23
+18141,St. Joseph,County,Indiana,0.22
+18143,Scott,County,Indiana,0.96
+18145,Shelby,County,Indiana,0.12
+18147,Spencer,County,Indiana,0.19
+18149,Starke,County,Indiana,0.12
+18151,Steuben,County,Indiana,0.20
+18153,Sullivan,County,Indiana,0.08
+18155,Switzerland,County,Indiana,0.70
+18157,Tippecanoe,County,Indiana,0.15
+18159,Tipton,County,Indiana,0.12
+18161,Union,County,Indiana,0.02
+18163,Vanderburgh,County,Indiana,0.22
+18165,Vermillion,County,Indiana,0.15
+18167,Vigo,County,Indiana,0.17
+18169,Wabash,County,Indiana,0.26
+18171,Warren,County,Indiana,0.55
+18173,Warrick,County,Indiana,0.14
+18175,Washington,County,Indiana,0.20
+18177,Wayne,County,Indiana,0.25
+18179,Wells,County,Indiana,0.11
+18181,White,County,Indiana,0.08
+18183,Whitley,County,Indiana,0.24
+19001,Adair,County,Iowa,0.17
+19003,Adams,County,Iowa,0.02
+19005,Allamakee,County,Iowa,0.23
+19007,Appanoose,County,Iowa,0.44
+19009,Audubon,County,Iowa,0.12
+19011,Benton,County,Iowa,0.07
+19013,Black Hawk,County,Iowa,0.05
+19015,Boone,County,Iowa,0.40
+19017,Bremer,County,Iowa,0.12
+19019,Buchanan,County,Iowa,0.81
+19021,Buena Vista,County,Iowa,0.03
+19023,Butler,County,Iowa,0.06
+19025,Calhoun,County,Iowa,0.07
+19027,Carroll,County,Iowa,0.04
+19029,Cass,County,Iowa,0.11
+19031,Cedar,County,Iowa,0.09
+19033,Cerro Gordo,County,Iowa,0.02
+19035,Cherokee,County,Iowa,0.11
+19037,Chickasaw,County,Iowa,0.08
+19039,Clarke,County,Iowa,0.18
+19041,Clay,County,Iowa,0.03
+19043,Clayton,County,Iowa,1.18
+19045,Clinton,County,Iowa,0.05
+19047,Crawford,County,Iowa,0.04
+19049,Dallas,County,Iowa,0.13
+19051,Davis,County,Iowa,0.89
+19053,Decatur,County,Iowa,0.10
+19055,Delaware,County,Iowa,0.29
+19057,Des Moines,County,Iowa,0.20
+19059,Dickinson,County,Iowa,(D)
+19061,Dubuque,County,Iowa,0.45
+19063,Emmet,County,Iowa,0.17
+19065,Fayette,County,Iowa,0.10
+19067,Floyd,County,Iowa,0.11
+19069,Franklin,County,Iowa,0.02
+19071,Fremont,County,Iowa,0.04
+19073,Greene,County,Iowa,0.03
+19075,Grundy,County,Iowa,(D)
+19077,Guthrie,County,Iowa,0.10
+19079,Hamilton,County,Iowa,0.08
+19081,Hancock,County,Iowa,0.01
+19083,Hardin,County,Iowa,0.02
+19085,Harrison,County,Iowa,0.02
+19087,Henry,County,Iowa,0.15
+19089,Howard,County,Iowa,0.31
+19091,Humboldt,County,Iowa,0.01
+19093,Ida,County,Iowa,0.02
+19095,Iowa,County,Iowa,0.12
+19097,Jackson,County,Iowa,0.11
+19099,Jasper,County,Iowa,0.14
+19101,Jefferson,County,Iowa,0.70
+19103,Johnson,County,Iowa,1.83
+19105,Jones,County,Iowa,0.11
+19107,Keokuk,County,Iowa,0.20
+19109,Kossuth,County,Iowa,0.06
+19111,Lee,County,Iowa,0.22
+19113,Linn,County,Iowa,0.18
+19115,Louisa,County,Iowa,0.21
+19117,Lucas,County,Iowa,0.14
+19119,Lyon,County,Iowa,0.36
+19121,Madison,County,Iowa,0.10
+19123,Mahaska,County,Iowa,0.14
+19125,Marion,County,Iowa,0.17
+19127,Marshall,County,Iowa,0.21
+19129,Mills,County,Iowa,0.03
+19131,Mitchell,County,Iowa,0.61
+19133,Monona,County,Iowa,0.01
+19135,Monroe,County,Iowa,0.10
+19137,Montgomery,County,Iowa,0.05
+19139,Muscatine,County,Iowa,0.14
+19141,O'Brien,County,Iowa,0.17
+19143,Osceola,County,Iowa,0.06
+19145,Page,County,Iowa,0.03
+19147,Palo Alto,County,Iowa,0.02
+19149,Plymouth,County,Iowa,0.10
+19151,Pocahontas,County,Iowa,(D)
+19153,Polk,County,Iowa,0.16
+19155,Pottawattamie,County,Iowa,0.02
+19157,Poweshiek,County,Iowa,0.05
+19159,Ringgold,County,Iowa,0.19
+19161,Sac,County,Iowa,0.04
+19163,Scott,County,Iowa,0.49
+19165,Shelby,County,Iowa,0.03
+19167,Sioux,County,Iowa,0.12
+19169,Story,County,Iowa,0.20
+19171,Tama,County,Iowa,0.11
+19173,Taylor,County,Iowa,0.11
+19175,Union,County,Iowa,0.18
+19177,Van Buren,County,Iowa,0.55
+19179,Wapello,County,Iowa,0.23
+19181,Warren,County,Iowa,0.11
+19183,Washington,County,Iowa,1.25
+19185,Wayne,County,Iowa,0.40
+19187,Webster,County,Iowa,0.03
+19189,Winnebago,County,Iowa,0.02
+19191,Winneshiek,County,Iowa,0.26
+19193,Woodbury,County,Iowa,0.06
+19195,Worth,County,Iowa,0.25
+19197,Wright,County,Iowa,0.02
+20001,Allen,County,Kansas,0.11
+20003,Anderson,County,Kansas,0.29
+20005,Atchison,County,Kansas,0.23
+20007,Barber,County,Kansas,0.08
+20009,Barton,County,Kansas,0.02
+20011,Bourbon,County,Kansas,0.33
+20013,Brown,County,Kansas,0.03
+20015,Butler,County,Kansas,0.21
+20017,Chase,County,Kansas,(D)
+20019,Chautauqua,County,Kansas,0.28
+20021,Cherokee,County,Kansas,0.13
+20023,Cheyenne,County,Kansas,0.00
+20025,Clark,County,Kansas,(D)
+20027,Clay,County,Kansas,0.05
+20029,Cloud,County,Kansas,0.23
+20031,Coffey,County,Kansas,0.11
+20033,Comanche,County,Kansas,0.00
+20035,Cowley,County,Kansas,0.21
+20037,Crawford,County,Kansas,0.22
+20039,Decatur,County,Kansas,0.03
+20041,Dickinson,County,Kansas,0.15
+20043,Doniphan,County,Kansas,0.08
+20045,Douglas,County,Kansas,0.25
+20047,Edwards,County,Kansas,(D)
+20049,Elk,County,Kansas,0.24
+20051,Ellis,County,Kansas,0.01
+20053,Ellsworth,County,Kansas,0.02
+20055,Finney,County,Kansas,0.04
+20057,Ford,County,Kansas,0.01
+20059,Franklin,County,Kansas,0.23
+20061,Geary,County,Kansas,0.20
+20063,Gove,County,Kansas,(D)
+20065,Graham,County,Kansas,0.03
+20067,Grant,County,Kansas,0.03
+20069,Gray,County,Kansas,0.02
+20071,Greeley,County,Kansas,0.00
+20073,Greenwood,County,Kansas,0.14
+20075,Hamilton,County,Kansas,0.02
+20077,Harper,County,Kansas,(D)
+20079,Harvey,County,Kansas,0.13
+20081,Haskell,County,Kansas,0.00
+20083,Hodgeman,County,Kansas,0.04
+20085,Jackson,County,Kansas,0.18
+20087,Jefferson,County,Kansas,0.39
+20089,Jewell,County,Kansas,0.07
+20091,Johnson,County,Kansas,0.42
+20093,Kearny,County,Kansas,0.04
+20095,Kingman,County,Kansas,0.10
+20097,Kiowa,County,Kansas,(D)
+20099,Labette,County,Kansas,0.35
+20101,Lane,County,Kansas,0.05
+20103,Leavenworth,County,Kansas,0.40
+20105,Lincoln,County,Kansas,0.17
+20107,Linn,County,Kansas,0.88
+20109,Logan,County,Kansas,0.07
+20111,Lyon,County,Kansas,0.14
+20113,McPherson,County,Kansas,0.08
+20115,Marion,County,Kansas,0.12
+20117,Marshall,County,Kansas,0.04
+20119,Meade,County,Kansas,0.00
+20121,Miami,County,Kansas,0.35
+20123,Mitchell,County,Kansas,0.00
+20125,Montgomery,County,Kansas,0.22
+20127,Morris,County,Kansas,0.06
+20129,Morton,County,Kansas,0.00
+20131,Nemaha,County,Kansas,0.08
+20133,Neosho,County,Kansas,0.24
+20135,Ness,County,Kansas,0.00
+20137,Norton,County,Kansas,0.05
+20139,Osage,County,Kansas,0.10
+20141,Osborne,County,Kansas,0.02
+20143,Ottawa,County,Kansas,0.06
+20145,Pawnee,County,Kansas,0.02
+20147,Phillips,County,Kansas,0.06
+20149,Pottawatomie,County,Kansas,0.16
+20151,Pratt,County,Kansas,0.08
+20153,Rawlins,County,Kansas,(D)
+20155,Reno,County,Kansas,0.15
+20157,Republic,County,Kansas,0.08
+20159,Rice,County,Kansas,0.07
+20161,Riley,County,Kansas,0.24
+20163,Rooks,County,Kansas,0.00
+20165,Rush,County,Kansas,0.03
+20167,Russell,County,Kansas,0.05
+20169,Saline,County,Kansas,0.16
+20171,Scott,County,Kansas,0.02
+20173,Sedgwick,County,Kansas,0.17
+20175,Seward,County,Kansas,0.02
+20177,Shawnee,County,Kansas,0.33
+20179,Sheridan,County,Kansas,(D)
+20181,Sherman,County,Kansas,(D)
+20183,Smith,County,Kansas,0.11
+20185,Stafford,County,Kansas,0.06
+20187,Stanton,County,Kansas,(D)
+20189,Stevens,County,Kansas,0.00
+20191,Sumner,County,Kansas,0.09
+20193,Thomas,County,Kansas,0.01
+20195,Trego,County,Kansas,0.02
+20197,Wabaunsee,County,Kansas,0.15
+20199,Wallace,County,Kansas,(D)
+20201,Washington,County,Kansas,0.14
+20203,Wichita,County,Kansas,(D)
+20205,Wilson,County,Kansas,0.29
+20207,Woodson,County,Kansas,0.08
+20209,Wyandotte,County,Kansas,0.71
+21001,Adair,County,Kentucky,0.43
+21003,Allen,County,Kentucky,0.82
+21005,Anderson,County,Kentucky,0.35
+21007,Ballard,County,Kentucky,0.33
+21009,Barren,County,Kentucky,0.88
+21011,Bath,County,Kentucky,0.18
+21013,Bell,County,Kentucky,1.49
+21015,Boone,County,Kentucky,0.40
+21017,Bourbon,County,Kentucky,0.48
+21019,Boyd,County,Kentucky,0.52
+21021,Boyle,County,Kentucky,0.63
+21023,Bracken,County,Kentucky,0.34
+21025,Breathitt,County,Kentucky,0.46
+21027,Breckinridge,County,Kentucky,0.39
+21029,Bullitt,County,Kentucky,0.94
+21031,Butler,County,Kentucky,0.51
+21033,Caldwell,County,Kentucky,0.03
+21035,Calloway,County,Kentucky,0.11
+21037,Campbell,County,Kentucky,0.44
+21039,Carlisle,County,Kentucky,0.18
+21041,Carroll,County,Kentucky,0.84
+21043,Carter,County,Kentucky,1.03
+21045,Casey,County,Kentucky,0.37
+21047,Christian,County,Kentucky,0.14
+21049,Clark,County,Kentucky,0.57
+21051,Clay,County,Kentucky,0.81
+21053,Clinton,County,Kentucky,0.30
+21055,Crittenden,County,Kentucky,0.27
+21057,Cumberland,County,Kentucky,1.04
+21059,Daviess,County,Kentucky,0.12
+21061,Edmonson,County,Kentucky,0.49
+21063,Elliott,County,Kentucky,0.68
+21065,Estill,County,Kentucky,0.38
+21067,Fayette,County,Kentucky,0.15
+21069,Fleming,County,Kentucky,0.29
+21071,Floyd,County,Kentucky,1.08
+21073,Franklin,County,Kentucky,1.67
+21075,Fulton,County,Kentucky,0.32
+21077,Gallatin,County,Kentucky,0.34
+21079,Garrard,County,Kentucky,0.32
+21081,Grant,County,Kentucky,1.44
+21083,Graves,County,Kentucky,0.30
+21085,Grayson,County,Kentucky,0.54
+21087,Green,County,Kentucky,0.22
+21089,Greenup,County,Kentucky,0.72
+21091,Hancock,County,Kentucky,0.09
+21093,Hardin,County,Kentucky,0.50
+21095,Harlan,County,Kentucky,0.45
+21097,Harrison,County,Kentucky,0.31
+21099,Hart,County,Kentucky,0.85
+21101,Henderson,County,Kentucky,0.10
+21103,Henry,County,Kentucky,0.31
+21105,Hickman,County,Kentucky,0.02
+21107,Hopkins,County,Kentucky,0.35
+21109,Jackson,County,Kentucky,0.37
+21111,Jefferson,County,Kentucky,0.98
+21113,Jessamine,County,Kentucky,0.63
+21115,Johnson,County,Kentucky,2.72
+21117,Kenton,County,Kentucky,0.73
+21119,Knott,County,Kentucky,1.50
+21121,Knox,County,Kentucky,1.33
+21123,Larue,County,Kentucky,0.93
+21125,Laurel,County,Kentucky,0.80
+21127,Lawrence,County,Kentucky,0.41
+21129,Lee,County,Kentucky,1.10
+21131,Leslie,County,Kentucky,(D)
+21133,Letcher,County,Kentucky,3.13
+21135,Lewis,County,Kentucky,2.04
+21137,Lincoln,County,Kentucky,0.69
+21139,Livingston,County,Kentucky,0.15
+21141,Logan,County,Kentucky,0.22
+21143,Lyon,County,Kentucky,0.64
+21145,McCracken,County,Kentucky,1.07
+21147,McCreary,County,Kentucky,0.36
+21149,McLean,County,Kentucky,0.35
+21151,Madison,County,Kentucky,0.30
+21153,Magoffin,County,Kentucky,1.08
+21155,Marion,County,Kentucky,0.33
+21157,Marshall,County,Kentucky,0.65
+21159,Martin,County,Kentucky,(D)
+21161,Mason,County,Kentucky,0.16
+21163,Meade,County,Kentucky,0.53
+21165,Menifee,County,Kentucky,0.17
+21167,Mercer,County,Kentucky,0.80
+21169,Metcalfe,County,Kentucky,0.29
+21171,Monroe,County,Kentucky,0.17
+21173,Montgomery,County,Kentucky,0.13
+21175,Morgan,County,Kentucky,0.44
+21177,Muhlenberg,County,Kentucky,0.41
+21179,Nelson,County,Kentucky,0.35
+21181,Nicholas,County,Kentucky,0.49
+21183,Ohio,County,Kentucky,0.23
+21185,Oldham,County,Kentucky,0.14
+21187,Owen,County,Kentucky,(D)
+21189,Owsley,County,Kentucky,0.50
+21191,Pendleton,County,Kentucky,0.44
+21193,Perry,County,Kentucky,3.07
+21195,Pike,County,Kentucky,1.20
+21197,Powell,County,Kentucky,0.77
+21199,Pulaski,County,Kentucky,0.45
+21201,Robertson,County,Kentucky,0.14
+21203,Rockcastle,County,Kentucky,0.63
+21205,Rowan,County,Kentucky,0.99
+21207,Russell,County,Kentucky,0.45
+21209,Scott,County,Kentucky,0.35
+21211,Shelby,County,Kentucky,0.36
+21213,Simpson,County,Kentucky,0.30
+21215,Spencer,County,Kentucky,0.58
+21217,Taylor,County,Kentucky,0.25
+21219,Todd,County,Kentucky,0.23
+21221,Trigg,County,Kentucky,0.15
+21223,Trimble,County,Kentucky,0.69
+21225,Union,County,Kentucky,0.03
+21227,Warren,County,Kentucky,0.84
+21229,Washington,County,Kentucky,0.32
+21231,Wayne,County,Kentucky,0.28
+21233,Webster,County,Kentucky,0.01
+21235,Whitley,County,Kentucky,0.82
+21237,Wolfe,County,Kentucky,(D)
+21239,Woodford,County,Kentucky,0.27
+22001,Acadia,Parish,Louisana,0.11
+22003,Allen,Parish,Louisana,0.64
+22005,Ascension,Parish,Louisana,0.74
+22007,Assumption,Parish,Louisana,0.09
+22009,Avoyelles,Parish,Louisana,0.37
+22011,Beauregard,Parish,Louisana,0.27
+22013,Bienville,Parish,Louisana,0.09
+22015,Bossier,Parish,Louisana,0.67
+22017,Caddo,Parish,Louisana,0.59
+22019,Calcasieu,Parish,Louisana,0.19
+22021,Caldwell,Parish,Louisana,0.40
+22023,Cameron,Parish,Louisana,0.07
+22025,Catahoula,Parish,Louisana,0.17
+22027,Claiborne,Parish,Louisana,0.44
+22029,Concordia,Parish,Louisana,0.18
+22031,De Soto,Parish,Louisana,0.15
+22033,East Baton Rouge,Parish,Louisana,0.90
+22035,East Carroll,Parish,Louisana,0.06
+22037,East Feliciana,Parish,Louisana,0.05
+22039,Evangeline,Parish,Louisana,0.09
+22041,Franklin,Parish,Louisana,0.07
+22043,Grant,Parish,Louisana,0.70
+22045,Iberia,Parish,Louisana,0.11
+22047,Iberville,Parish,Louisana,0.03
+22049,Jackson,Parish,Louisana,1.66
+22051,Jefferson,Parish,Louisana,1.06
+22053,Jefferson Davis,Parish,Louisana,0.05
+22055,Lafayette,Parish,Louisana,0.40
+22057,Lafourche,Parish,Louisana,0.11
+22059,LaSalle,Parish,Louisana,0.74
+22061,Lincoln,Parish,Louisana,0.27
+22063,Livingston,Parish,Louisana,0.85
+22065,Madison,Parish,Louisana,(D)
+22067,Morehouse,Parish,Louisana,0.15
+22069,Natchitoches,Parish,Louisana,0.26
+22071,Orleans,Parish,Louisana,(D)
+22073,Ouachita,Parish,Louisana,0.27
+22075,Plaquemines,Parish,Louisana,(D)
+22077,Pointe Coupee,Parish,Louisana,0.05
+22079,Rapides,Parish,Louisana,0.20
+22081,Red River,Parish,Louisana,0.09
+22083,Richland,Parish,Louisana,0.11
+22085,Sabine,Parish,Louisana,0.47
+22087,St. Bernard,Parish,Louisana,0.33
+22089,St. Charles,Parish,Louisana,0.00
+22091,St. Helena,Parish,Louisana,0.92
+22093,St. James,Parish,Louisana,0.00
+22095,St. John the Baptist,Parish,Louisana,0.14
+22097,St. Landry,Parish,Louisana,0.41
+22099,St. Martin,Parish,Louisana,0.40
+22101,St. Mary,Parish,Louisana,0.20
+22103,St. Tammany,Parish,Louisana,1.95
+22105,Tangipahoa,Parish,Louisana,0.71
+22107,Tensas,Parish,Louisana,0.00
+22109,Terrebonne,Parish,Louisana,0.03
+22111,Union,Parish,Louisana,0.46
+22113,Vermilion,Parish,Louisana,0.09
+22115,Vernon,Parish,Louisana,2.72
+22117,Washington,Parish,Louisana,0.59
+22119,Webster,Parish,Louisana,0.46
+22121,West Baton Rouge,Parish,Louisana,0.03
+22123,West Carroll,Parish,Louisana,0.09
+22125,West Feliciana,Parish,Louisana,0.13
+22127,Winn,Parish,Louisana,0.40
+23001,Androscoggin,County,Maine,0.25
+23003,Aroostook,County,Maine,0.07
+23005,Cumberland,County,Maine,1.09
+23007,Franklin,County,Maine,0.38
+23009,Hancock,County,Maine,0.81
+23011,Kennebec,County,Maine,0.49
+23013,Knox,County,Maine,1.20
+23015,Lincoln,County,Maine,1.52
+23017,Oxford,County,Maine,0.32
+23019,Penobscot,County,Maine,1.51
+23021,Piscataquis,County,Maine,0.21
+23023,Sagadahoc,County,Maine,0.89
+23025,Somerset,County,Maine,0.25
+23027,Waldo,County,Maine,0.25
+23029,Washington,County,Maine,0.19
+23031,York,County,Maine,0.54
+24001,Allegany,County,Maryland,0.39
+24003,Anne Arundel,County,Maryland,0.95
+24005,Baltimore,County,Maryland,0.96
+24009,Calvert,County,Maryland,0.50
+24011,Caroline,County,Maryland,0.15
+24013,Carroll,County,Maryland,0.90
+24015,Cecil,County,Maryland,0.66
+24017,Charles,County,Maryland,0.82
+24019,Dorchester,County,Maryland,0.03
+24021,Frederick,County,Maryland,0.69
+24023,Garrett,County,Maryland,0.70
+24025,Harford,County,Maryland,0.63
+24027,Howard,County,Maryland,0.70
+24029,Kent,County,Maryland,0.34
+24031,Montgomery,County,Maryland,1.15
+24033,Prince George's,County,Maryland,1.54
+24035,Queen Anne's,County,Maryland,0.22
+24037,St. Mary's,County,Maryland,0.90
+24039,Somerset,County,Maryland,0.43
+24041,Talbot,County,Maryland,0.04
+24043,Washington,County,Maryland,1.04
+24045,Wicomico,County,Maryland,0.19
+24047,Worcester,County,Maryland,0.08
+25001,Barnstable,County,Massachusetts,2.78
+25003,Berkshire,County,Massachusetts,0.90
+25005,Bristol,County,Massachusetts,2.75
+25007,Dukes,County,Massachusetts,0.27
+25009,Essex,County,Massachusetts,0.94
+25011,Franklin,County,Massachusetts,1.37
+25013,Hampden,County,Massachusetts,1.45
+25015,Hampshire,County,Massachusetts,1.63
+25017,Middlesex,County,Massachusetts,1.07
+25019,Nantucket,County,Massachusetts,0.00
+25021,Norfolk,County,Massachusetts,1.02
+25023,Plymouth,County,Massachusetts,0.62
+25025,Suffolk,County,Massachusetts,0.00
+25027,Worcester,County,Massachusetts,3.19
+26001,Alcona,County,Michigan,0.05
+26003,Alger,County,Michigan,0.74
+26005,Allegan,County,Michigan,0.61
+26007,Alpena,County,Michigan,0.23
+26009,Antrim,County,Michigan,0.08
+26011,Arenac,County,Michigan,0.07
+26013,Baraga,County,Michigan,(D)
+26015,Barry,County,Michigan,0.46
+26017,Bay,County,Michigan,0.11
+26019,Benzie,County,Michigan,0.33
+26021,Berrien,County,Michigan,0.35
+26023,Branch,County,Michigan,0.19
+26025,Calhoun,County,Michigan,0.40
+26027,Cass,County,Michigan,0.35
+26029,Charlevoix,County,Michigan,0.27
+26031,Cheboygan,County,Michigan,0.36
+26033,Chippewa,County,Michigan,0.24
+26035,Clare,County,Michigan,0.36
+26037,Clinton,County,Michigan,0.19
+26039,Crawford,County,Michigan,2.25
+26041,Delta,County,Michigan,0.09
+26043,Dickinson,County,Michigan,0.07
+26045,Eaton,County,Michigan,0.19
+26047,Emmet,County,Michigan,0.53
+26049,Genesee,County,Michigan,0.24
+26051,Gladwin,County,Michigan,0.37
+26053,Gogebic,County,Michigan,0.00
+26055,Grand Traverse,County,Michigan,0.08
+26057,Gratiot,County,Michigan,0.04
+26059,Hillsdale,County,Michigan,0.21
+26061,Houghton,County,Michigan,0.40
+26063,Huron,County,Michigan,0.02
+26065,Ingham,County,Michigan,0.68
+26067,Ionia,County,Michigan,0.19
+26069,Iosco,County,Michigan,0.37
+26071,Iron,County,Michigan,(D)
+26073,Isabella,County,Michigan,0.11
+26075,Jackson,County,Michigan,0.61
+26077,Kalamazoo,County,Michigan,0.43
+26079,Kalkaska,County,Michigan,0.51
+26081,Kent,County,Michigan,0.19
+26083,Keweenaw,County,Michigan,0.00
+26085,Lake,County,Michigan,0.56
+26087,Lapeer,County,Michigan,0.25
+26089,Leelanau,County,Michigan,0.10
+26091,Lenawee,County,Michigan,0.13
+26093,Livingston,County,Michigan,0.75
+26095,Luce,County,Michigan,0.22
+26097,Mackinac,County,Michigan,0.56
+26099,Macomb,County,Michigan,0.21
+26101,Manistee,County,Michigan,0.38
+26103,Marquette,County,Michigan,0.39
+26105,Mason,County,Michigan,0.25
+26107,Mecosta,County,Michigan,0.24
+26109,Menominee,County,Michigan,0.20
+26111,Midland,County,Michigan,0.25
+26113,Missaukee,County,Michigan,0.13
+26115,Monroe,County,Michigan,0.15
+26117,Montcalm,County,Michigan,0.14
+26119,Montmorency,County,Michigan,0.19
+26121,Muskegon,County,Michigan,0.35
+26123,Newaygo,County,Michigan,0.63
+26125,Oakland,County,Michigan,0.64
+26127,Oceana,County,Michigan,0.35
+26129,Ogemaw,County,Michigan,0.09
+26131,Ontonagon,County,Michigan,(D)
+26133,Osceola,County,Michigan,0.47
+26135,Oscoda,County,Michigan,0.72
+26137,Otsego,County,Michigan,0.05
+26139,Ottawa,County,Michigan,0.95
+26141,Presque Isle,County,Michigan,0.12
+26143,Roscommon,County,Michigan,(D)
+26145,Saginaw,County,Michigan,0.07
+26147,St. Clair,County,Michigan,0.27
+26149,St. Joseph,County,Michigan,0.34
+26151,Sanilac,County,Michigan,0.19
+26153,Schoolcraft,County,Michigan,0.00
+26155,Shiawassee,County,Michigan,0.27
+26157,Tuscola,County,Michigan,0.11
+26159,Van Buren,County,Michigan,0.41
+26161,Washtenaw,County,Michigan,0.46
+26163,Wayne,County,Michigan,1.07
+26165,Wexford,County,Michigan,0.84
+27001,Aitkin,County,Minnesota,0.08
+27003,Anoka,County,Minnesota,0.35
+27005,Becker,County,Minnesota,0.06
+27007,Beltrami,County,Minnesota,0.14
+27009,Benton,County,Minnesota,0.13
+27011,Big Stone,County,Minnesota,0.06
+27013,Blue Earth,County,Minnesota,0.03
+27015,Brown,County,Minnesota,0.03
+27017,Carlton,County,Minnesota,0.20
+27019,Carver,County,Minnesota,0.27
+27021,Cass,County,Minnesota,0.23
+27023,Chippewa,County,Minnesota,0.03
+27025,Chisago,County,Minnesota,0.20
+27027,Clay,County,Minnesota,0.02
+27029,Clearwater,County,Minnesota,0.45
+27031,Cook,County,Minnesota,(D)
+27033,Cottonwood,County,Minnesota,0.06
+27035,Crow Wing,County,Minnesota,0.38
+27037,Dakota,County,Minnesota,0.26
+27039,Dodge,County,Minnesota,0.09
+27041,Douglas,County,Minnesota,0.05
+27043,Faribault,County,Minnesota,0.02
+27045,Fillmore,County,Minnesota,0.45
+27047,Freeborn,County,Minnesota,0.08
+27049,Goodhue,County,Minnesota,0.55
+27051,Grant,County,Minnesota,0.02
+27053,Hennepin,County,Minnesota,0.44
+27055,Houston,County,Minnesota,0.10
+27057,Hubbard,County,Minnesota,0.13
+27059,Isanti,County,Minnesota,0.29
+27061,Itasca,County,Minnesota,0.49
+27063,Jackson,County,Minnesota,0.14
+27065,Kanabec,County,Minnesota,0.19
+27067,Kandiyohi,County,Minnesota,0.08
+27069,Kittson,County,Minnesota,0.01
+27071,Koochiching,County,Minnesota,(D)
+27073,Lac qui Parle,County,Minnesota,0.03
+27075,Lake,County,Minnesota,(D)
+27077,Lake of the Woods,County,Minnesota,0.02
+27079,Le Sueur,County,Minnesota,0.12
+27081,Lincoln,County,Minnesota,0.15
+27083,Lyon,County,Minnesota,0.17
+27085,McLeod,County,Minnesota,0.13
+27087,Mahnomen,County,Minnesota,(D)
+27089,Marshall,County,Minnesota,0.00
+27091,Martin,County,Minnesota,0.12
+27093,Meeker,County,Minnesota,0.17
+27095,Mille Lacs,County,Minnesota,0.27
+27097,Morrison,County,Minnesota,0.33
+27099,Mower,County,Minnesota,0.14
+27101,Murray,County,Minnesota,0.31
+27103,Nicollet,County,Minnesota,0.03
+27105,Nobles,County,Minnesota,0.28
+27107,Norman,County,Minnesota,0.01
+27109,Olmsted,County,Minnesota,0.12
+27111,Otter Tail,County,Minnesota,0.05
+27113,Pennington,County,Minnesota,0.04
+27115,Pine,County,Minnesota,0.17
+27117,Pipestone,County,Minnesota,0.57
+27119,Polk,County,Minnesota,0.01
+27121,Pope,County,Minnesota,0.19
+27123,Ramsey,County,Minnesota,0.00
+27125,Red Lake,County,Minnesota,0.01
+27127,Redwood,County,Minnesota,0.02
+27129,Renville,County,Minnesota,0.02
+27131,Rice,County,Minnesota,0.24
+27133,Rock,County,Minnesota,0.02
+27135,Roseau,County,Minnesota,0.04
+27137,St. Louis,County,Minnesota,0.55
+27139,Scott,County,Minnesota,0.31
+27141,Sherburne,County,Minnesota,0.28
+27143,Sibley,County,Minnesota,0.07
+27145,Stearns,County,Minnesota,0.16
+27147,Steele,County,Minnesota,0.14
+27149,Stevens,County,Minnesota,(D)
+27151,Swift,County,Minnesota,0.04
+27153,Todd,County,Minnesota,0.23
+27155,Traverse,County,Minnesota,(D)
+27157,Wabasha,County,Minnesota,0.15
+27159,Wadena,County,Minnesota,0.11
+27161,Waseca,County,Minnesota,0.37
+27163,Washington,County,Minnesota,1.14
+27165,Watonwan,County,Minnesota,0.07
+27167,Wilkin,County,Minnesota,0.02
+27169,Winona,County,Minnesota,0.48
+27171,Wright,County,Minnesota,0.16
+27173,Yellow Medicine,County,Minnesota,0.09
+28001,Adams,County,Mississippi,0.18
+28003,Alcorn,County,Mississippi,0.38
+28005,Amite,County,Mississippi,0.27
+28007,Attala,County,Mississippi,0.20
+28009,Benton,County,Mississippi,1.08
+28011,Bolivar,County,Mississippi,0.00
+28013,Calhoun,County,Mississippi,0.18
+28015,Carroll,County,Mississippi,0.08
+28017,Chickasaw,County,Mississippi,0.07
+28019,Choctaw,County,Mississippi,0.72
+28021,Claiborne,County,Mississippi,0.48
+28023,Clarke,County,Mississippi,0.53
+28025,Clay,County,Mississippi,0.05
+28027,Coahoma,County,Mississippi,0.00
+28029,Copiah,County,Mississippi,0.21
+28031,Covington,County,Mississippi,0.05
+28033,DeSoto,County,Mississippi,0.24
+28035,Forrest,County,Mississippi,1.03
+28037,Franklin,County,Mississippi,0.15
+28039,George,County,Mississippi,1.20
+28041,Greene,County,Mississippi,1.15
+28043,Grenada,County,Mississippi,0.17
+28045,Hancock,County,Mississippi,1.81
+28047,Harrison,County,Mississippi,2.21
+28049,Hinds,County,Mississippi,0.21
+28051,Holmes,County,Mississippi,0.09
+28053,Humphreys,County,Mississippi,(D)
+28055,Issaquena,County,Mississippi,0.00
+28057,Itawamba,County,Mississippi,0.15
+28059,Jackson,County,Mississippi,2.05
+28061,Jasper,County,Mississippi,0.06
+28063,Jefferson,County,Mississippi,0.36
+28065,Jefferson Davis,County,Mississippi,0.21
+28067,Jones,County,Mississippi,0.69
+28069,Kemper,County,Mississippi,0.06
+28071,Lafayette,County,Mississippi,0.20
+28073,Lamar,County,Mississippi,0.60
+28075,Lauderdale,County,Mississippi,0.69
+28077,Lawrence,County,Mississippi,0.44
+28079,Leake,County,Mississippi,0.20
+28081,Lee,County,Mississippi,0.51
+28083,Leflore,County,Mississippi,0.00
+28085,Lincoln,County,Mississippi,0.43
+28087,Lowndes,County,Mississippi,0.17
+28089,Madison,County,Mississippi,0.09
+28091,Marion,County,Mississippi,0.54
+28093,Marshall,County,Mississippi,0.14
+28095,Monroe,County,Mississippi,0.16
+28097,Montgomery,County,Mississippi,0.06
+28099,Neshoba,County,Mississippi,0.29
+28101,Newton,County,Mississippi,0.38
+28103,Noxubee,County,Mississippi,0.05
+28105,Oktibbeha,County,Mississippi,0.09
+28107,Panola,County,Mississippi,0.18
+28109,Pearl River,County,Mississippi,0.68
+28111,Perry,County,Mississippi,1.22
+28113,Pike,County,Mississippi,0.60
+28115,Pontotoc,County,Mississippi,0.20
+28117,Prentiss,County,Mississippi,0.29
+28119,Quitman,County,Mississippi,0.00
+28121,Rankin,County,Mississippi,0.29
+28123,Scott,County,Mississippi,0.13
+28125,Sharkey,County,Mississippi,(D)
+28127,Simpson,County,Mississippi,0.44
+28129,Smith,County,Mississippi,0.28
+28131,Stone,County,Mississippi,1.36
+28133,Sunflower,County,Mississippi,0.01
+28135,Tallahatchie,County,Mississippi,0.01
+28137,Tate,County,Mississippi,0.44
+28139,Tippah,County,Mississippi,0.31
+28141,Tishomingo,County,Mississippi,0.29
+28143,Tunica,County,Mississippi,0.00
+28145,Union,County,Mississippi,0.17
+28147,Walthall,County,Mississippi,0.48
+28149,Warren,County,Mississippi,0.16
+28151,Washington,County,Mississippi,(D)
+28153,Wayne,County,Mississippi,0.57
+28155,Webster,County,Mississippi,0.15
+28157,Wilkinson,County,Mississippi,0.19
+28159,Winston,County,Mississippi,0.34
+28161,Yalobusha,County,Mississippi,0.38
+28163,Yazoo,County,Mississippi,0.03
+29001,Adair,County,Missouri,0.27
+29003,Andrew,County,Missouri,0.34
+29005,Atchison,County,Missouri,0.04
+29007,Audrain,County,Missouri,0.12
+29009,Barry,County,Missouri,0.68
+29011,Barton,County,Missouri,0.19
+29013,Bates,County,Missouri,0.13
+29015,Benton,County,Missouri,0.47
+29017,Bollinger,County,Missouri,0.30
+29019,Boone,County,Missouri,0.61
+29021,Buchanan,County,Missouri,0.17
+29023,Butler,County,Missouri,0.17
+29025,Caldwell,County,Missouri,0.05
+29027,Callaway,County,Missouri,0.15
+29029,Camden,County,Missouri,0.40
+29031,Cape Girardeau,County,Missouri,0.34
+29033,Carroll,County,Missouri,0.06
+29035,Carter,County,Missouri,0.88
+29037,Cass,County,Missouri,0.36
+29039,Cedar,County,Missouri,0.79
+29041,Chariton,County,Missouri,0.14
+29043,Christian,County,Missouri,0.38
+29045,Clark,County,Missouri,0.09
+29047,Clay,County,Missouri,0.60
+29049,Clinton,County,Missouri,0.29
+29051,Cole,County,Missouri,0.14
+29053,Cooper,County,Missouri,0.10
+29055,Crawford,County,Missouri,0.25
+29057,Dade,County,Missouri,0.26
+29059,Dallas,County,Missouri,0.43
+29061,Daviess,County,Missouri,0.16
+29063,DeKalb,County,Missouri,0.17
+29065,Dent,County,Missouri,0.50
+29067,Douglas,County,Missouri,0.33
+29069,Dunklin,County,Missouri,0.05
+29071,Franklin,County,Missouri,0.30
+29073,Gasconade,County,Missouri,0.28
+29075,Gentry,County,Missouri,0.14
+29077,Greene,County,Missouri,0.24
+29079,Grundy,County,Missouri,0.12
+29081,Harrison,County,Missouri,0.18
+29083,Henry,County,Missouri,0.12
+29085,Hickory,County,Missouri,0.26
+29087,Holt,County,Missouri,0.01
+29089,Howard,County,Missouri,0.22
+29091,Howell,County,Missouri,1.08
+29093,Iron,County,Missouri,0.79
+29095,Jackson,County,Missouri,0.21
+29097,Jasper,County,Missouri,0.57
+29099,Jefferson,County,Missouri,(D)
+29101,Johnson,County,Missouri,0.51
+29103,Knox,County,Missouri,0.04
+29105,Laclede,County,Missouri,0.48
+29107,Lafayette,County,Missouri,0.29
+29109,Lawrence,County,Missouri,0.55
+29111,Lewis,County,Missouri,0.81
+29113,Lincoln,County,Missouri,0.11
+29115,Linn,County,Missouri,0.15
+29117,Livingston,County,Missouri,0.06
+29119,McDonald,County,Missouri,0.23
+29121,Macon,County,Missouri,0.36
+29123,Madison,County,Missouri,0.27
+29125,Maries,County,Missouri,0.14
+29127,Marion,County,Missouri,0.14
+29129,Mercer,County,Missouri,0.10
+29131,Miller,County,Missouri,0.20
+29133,Mississippi,County,Missouri,(D)
+29135,Moniteau,County,Missouri,0.25
+29137,Monroe,County,Missouri,0.15
+29139,Montgomery,County,Missouri,0.09
+29141,Morgan,County,Missouri,0.37
+29143,New Madrid,County,Missouri,0.00
+29145,Newton,County,Missouri,0.42
+29147,Nodaway,County,Missouri,0.24
+29149,Oregon,County,Missouri,0.95
+29151,Osage,County,Missouri,0.05
+29153,Ozark,County,Missouri,0.54
+29155,Pemiscot,County,Missouri,(D)
+29157,Perry,County,Missouri,0.14
+29159,Pettis,County,Missouri,0.25
+29161,Phelps,County,Missouri,0.61
+29163,Pike,County,Missouri,0.07
+29165,Platte,County,Missouri,0.36
+29167,Polk,County,Missouri,0.43
+29169,Pulaski,County,Missouri,0.30
+29171,Putnam,County,Missouri,0.04
+29173,Ralls,County,Missouri,0.05
+29175,Randolph,County,Missouri,0.19
+29177,Ray,County,Missouri,0.28
+29179,Reynolds,County,Missouri,1.24
+29181,Ripley,County,Missouri,0.37
+29183,St. Charles,County,Missouri,0.06
+29185,St. Clair,County,Missouri,8.12
+29186,Ste. Genevieve,County,Missouri,0.30
+29187,St. Francois,County,Missouri,(D)
+29189,St. Louis,County,Missouri,0.10
+29195,Saline,County,Missouri,0.07
+29197,Schuyler,County,Missouri,0.23
+29199,Scotland,County,Missouri,0.10
+29201,Scott,County,Missouri,0.06
+29203,Shannon,County,Missouri,0.93
+29205,Shelby,County,Missouri,0.05
+29207,Stoddard,County,Missouri,0.08
+29209,Stone,County,Missouri,0.58
+29211,Sullivan,County,Missouri,0.04
+29213,Taney,County,Missouri,0.08
+29215,Texas,County,Missouri,0.46
+29217,Vernon,County,Missouri,0.22
+29219,Warren,County,Missouri,0.21
+29221,Washington,County,Missouri,0.49
+29223,Wayne,County,Missouri,(D)
+29225,Webster,County,Missouri,0.73
+29227,Worth,County,Missouri,0.09
+29229,Wright,County,Missouri,0.59
+30001,Beaverhead,County,Montana,0.00
+30003,Big Horn,County,Montana,0.01
+30005,Blaine,County,Montana,0.00
+30007,Broadwater,County,Montana,0.01
+30009,Carbon,County,Montana,0.04
+30011,Carter,County,Montana,0.00
+30013,Cascade,County,Montana,0.05
+30015,Chouteau,County,Montana,0.01
+30017,Custer,County,Montana,0.00
+30019,Daniels,County,Montana,(D)
+30021,Dawson,County,Montana,0.01
+30023,Deer Lodge,County,Montana,0.02
+30025,Fallon,County,Montana,0.01
+30027,Fergus,County,Montana,0.00
+30029,Flathead,County,Montana,0.22
+30031,Gallatin,County,Montana,0.07
+30033,Garfield,County,Montana,(D)
+30035,Glacier,County,Montana,0.00
+30037,Golden Valley,County,Montana,(D)
+30039,Granite,County,Montana,0.02
+30041,Hill,County,Montana,0.00
+30043,Jefferson,County,Montana,0.04
+30045,Judith Basin,County,Montana,0.00
+30047,Lake,County,Montana,0.03
+30049,Lewis and Clark,County,Montana,0.10
+30051,Liberty,County,Montana,0.00
+30053,Lincoln,County,Montana,0.32
+30055,McCone,County,Montana,0.00
+30057,Madison,County,Montana,0.01
+30059,Meagher,County,Montana,(D)
+30061,Mineral,County,Montana,0.00
+30063,Missoula,County,Montana,0.17
+30065,Musselshell,County,Montana,0.02
+30067,Park,County,Montana,0.02
+30069,Petroleum,County,Montana,0.00
+30071,Phillips,County,Montana,0.00
+30073,Pondera,County,Montana,0.01
+30075,Powder River,County,Montana,0.01
+30077,Powell,County,Montana,0.01
+30079,Prairie,County,Montana,0.00
+30081,Ravalli,County,Montana,0.24
+30083,Richland,County,Montana,0.01
+30085,Roosevelt,County,Montana,0.01
+30087,Rosebud,County,Montana,0.00
+30089,Sanders,County,Montana,0.04
+30091,Sheridan,County,Montana,0.00
+30093,Silver Bow,County,Montana,0.01
+30095,Stillwater,County,Montana,0.05
+30097,Sweet Grass,County,Montana,0.01
+30099,Teton,County,Montana,0.22
+30101,Toole,County,Montana,(D)
+30103,Treasure,County,Montana,(D)
+30105,Valley,County,Montana,(D)
+30107,Wheatland,County,Montana,0.03
+30109,Wibaux,County,Montana,(D)
+30111,Yellowstone,County,Montana,0.02
+31001,Adams,County,Nebraska,0.09
+31003,Antelope,County,Nebraska,0.01
+31005,Arthur,County,Nebraska,0.01
+31007,Banner,County,Nebraska,0.00
+31009,Blaine,County,Nebraska,0.04
+31011,Boone,County,Nebraska,0.01
+31013,Box Butte,County,Nebraska,0.03
+31015,Boyd,County,Nebraska,0.01
+31017,Brown,County,Nebraska,(D)
+31019,Buffalo,County,Nebraska,0.08
+31021,Burt,County,Nebraska,0.01
+31023,Butler,County,Nebraska,0.12
+31025,Cass,County,Nebraska,0.12
+31027,Cedar,County,Nebraska,0.06
+31029,Chase,County,Nebraska,(D)
+31031,Cherry,County,Nebraska,0.01
+31033,Cheyenne,County,Nebraska,0.01
+31035,Clay,County,Nebraska,0.19
+31037,Colfax,County,Nebraska,0.05
+31039,Cuming,County,Nebraska,0.16
+31041,Custer,County,Nebraska,0.08
+31043,Dakota,County,Nebraska,0.16
+31045,Dawes,County,Nebraska,0.04
+31047,Dawson,County,Nebraska,0.16
+31049,Deuel,County,Nebraska,0.04
+31051,Dixon,County,Nebraska,0.13
+31053,Dodge,County,Nebraska,0.04
+31055,Douglas,County,Nebraska,0.02
+31057,Dundy,County,Nebraska,0.00
+31059,Fillmore,County,Nebraska,(D)
+31061,Franklin,County,Nebraska,0.01
+31063,Frontier,County,Nebraska,0.01
+31065,Furnas,County,Nebraska,0.10
+31067,Gage,County,Nebraska,0.06
+31069,Garden,County,Nebraska,0.04
+31071,Garfield,County,Nebraska,0.02
+31073,Gosper,County,Nebraska,0.08
+31075,Grant,County,Nebraska,(D)
+31077,Greeley,County,Nebraska,0.01
+31079,Hall,County,Nebraska,0.09
+31081,Hamilton,County,Nebraska,0.06
+31083,Harlan,County,Nebraska,0.04
+31085,Hayes,County,Nebraska,0.03
+31087,Hitchcock,County,Nebraska,(D)
+31089,Holt,County,Nebraska,0.03
+31091,Hooker,County,Nebraska,0.00
+31093,Howard,County,Nebraska,0.11
+31095,Jefferson,County,Nebraska,0.09
+31097,Johnson,County,Nebraska,0.18
+31099,Kearney,County,Nebraska,(D)
+31101,Keith,County,Nebraska,0.02
+31103,Keya Paha,County,Nebraska,0.07
+31105,Kimball,County,Nebraska,0.02
+31107,Knox,County,Nebraska,0.17
+31109,Lancaster,County,Nebraska,0.23
+31111,Lincoln,County,Nebraska,0.11
+31113,Logan,County,Nebraska,0.00
+31115,Loup,County,Nebraska,(D)
+31117,McPherson,County,Nebraska,(D)
+31119,Madison,County,Nebraska,0.06
+31121,Merrick,County,Nebraska,0.06
+31123,Morrill,County,Nebraska,0.02
+31125,Nance,County,Nebraska,0.08
+31127,Nemaha,County,Nebraska,0.05
+31129,Nuckolls,County,Nebraska,0.09
+31131,Otoe,County,Nebraska,0.09
+31133,Pawnee,County,Nebraska,0.07
+31135,Perkins,County,Nebraska,0.01
+31137,Phelps,County,Nebraska,0.06
+31139,Pierce,County,Nebraska,0.07
+31141,Platte,County,Nebraska,0.04
+31143,Polk,County,Nebraska,0.03
+31145,Red Willow,County,Nebraska,0.08
+31147,Richardson,County,Nebraska,0.13
+31149,Rock,County,Nebraska,(D)
+31151,Saline,County,Nebraska,0.05
+31153,Sarpy,County,Nebraska,0.23
+31155,Saunders,County,Nebraska,0.12
+31157,Scotts Bluff,County,Nebraska,0.22
+31159,Seward,County,Nebraska,0.23
+31161,Sheridan,County,Nebraska,0.04
+31163,Sherman,County,Nebraska,0.21
+31165,Sioux,County,Nebraska,0.01
+31167,Stanton,County,Nebraska,0.03
+31169,Thayer,County,Nebraska,0.02
+31171,Thomas,County,Nebraska,(D)
+31173,Thurston,County,Nebraska,(D)
+31175,Valley,County,Nebraska,(D)
+31177,Washington,County,Nebraska,0.25
+31179,Wayne,County,Nebraska,0.07
+31181,Webster,County,Nebraska,0.04
+31183,Wheeler,County,Nebraska,0.01
+31185,York,County,Nebraska,0.06
+32001,Churchill,County,Nevada,6.88
+32003,Clark,County,Nevada,1.47
+32005,Douglas,County,Nevada,0.23
+32007,Elko,County,Nevada,0.03
+32009,Esmeralda,County,Nevada,0.35
+32011,Eureka,County,Nevada,(D)
+32013,Humboldt,County,Nevada,0.02
+32015,Lander,County,Nevada,0.06
+32017,Lincoln,County,Nevada,(D)
+32019,Lyon,County,Nevada,0.38
+32021,Mineral,County,Nevada,(D)
+32023,Nye,County,Nevada,0.59
+32027,Pershing,County,Nevada,0.88
+32029,Storey,County,Nevada,0.00
+32031,Washoe,County,Nevada,0.11
+32033,White Pine,County,Nevada,0.14
+32510,Carson City,City,Nevada,(D)
+33001,Belknap,County,New Hampshire,1.63
+33003,Carroll,County,New Hampshire,1.03
+33005,Cheshire,County,New Hampshire,0.53
+33007,Coos,County,New Hampshire,0.50
+33009,Grafton,County,New Hampshire,0.72
+33011,Hillsborough,County,New Hampshire,1.42
+33013,Merrimack,County,New Hampshire,0.86
+33015,Rockingham,County,New Hampshire,3.13
+33017,Strafford,County,New Hampshire,1.28
+33019,Sullivan,County,New Hampshire,0.56
+34001,Atlantic,County,New Jersey,0.70
+34003,Bergen,County,New Jersey,(D)
+34005,Burlington,County,New Jersey,0.57
+34007,Camden,County,New Jersey,1.72
+34009,Cape May,County,New Jersey,0.86
+34011,Cumberland,County,New Jersey,0.51
+34013,Essex,County,New Jersey,(D)
+34015,Gloucester,County,New Jersey,1.03
+34017,Hudson,County,New Jersey,0.00
+34019,Hunterdon,County,New Jersey,1.72
+34021,Mercer,County,New Jersey,0.69
+34023,Middlesex,County,New Jersey,2.50
+34025,Monmouth,County,New Jersey,3.24
+34027,Morris,County,New Jersey,2.00
+34029,Ocean,County,New Jersey,2.07
+34031,Passaic,County,New Jersey,2.61
+34033,Salem,County,New Jersey,0.61
+34035,Somerset,County,New Jersey,0.65
+34037,Sussex,County,New Jersey,1.28
+34039,Union,County,New Jersey,0.00
+34041,Warren,County,New Jersey,1.28
+35001,Bernalillo,County,New Mexico,0.35
+35003,Catron,County,New Mexico,0.02
+35005,Chaves,County,New Mexico,0.07
+35006,Cibola,County,New Mexico,0.02
+35007,Colfax,County,New Mexico,0.02
+35009,Curry,County,New Mexico,0.02
+35011,De Baca,County,New Mexico,(D)
+35013,Do±a Ana,County,New Mexico,0.08
+35015,Eddy,County,New Mexico,0.13
+35017,Grant,County,New Mexico,0.03
+35019,Guadalupe,County,New Mexico,(D)
+35021,Harding,County,New Mexico,0.00
+35023,Hidalgo,County,New Mexico,0.03
+35025,Lea,County,New Mexico,0.01
+35027,Lincoln,County,New Mexico,0.06
+35028,Los Alamos,County,New Mexico,(D)
+35029,Luna,County,New Mexico,0.03
+35031,McKinley,County,New Mexico,0.34
+35033,Mora,County,New Mexico,0.01
+35035,Otero,County,New Mexico,0.06
+35037,Quay,County,New Mexico,0.01
+35039,Rio Arriba,County,New Mexico,0.05
+35041,Roosevelt,County,New Mexico,0.06
+35043,Sandoval,County,New Mexico,0.09
+35045,San Juan,County,New Mexico,0.22
+35047,San Miguel,County,New Mexico,0.01
+35049,Santa Fe,County,New Mexico,0.07
+35051,Sierra,County,New Mexico,0.02
+35053,Socorro,County,New Mexico,0.02
+35055,Taos,County,New Mexico,0.13
+35057,Torrance,County,New Mexico,0.05
+35059,Union,County,New Mexico,0.01
+35061,Valencia,County,New Mexico,0.15
+36001,Albany,County,New York,0.80
+36003,Allegany,County,New York,0.19
+36005,Bronx,County,New York,(D)
+36007,Broome,County,New York,0.49
+36009,Cattaraugus,County,New York,0.31
+36011,Cayuga,County,New York,0.61
+36013,Chautauqua,County,New York,0.55
+36015,Chemung,County,New York,0.79
+36017,Chenango,County,New York,0.68
+36019,Clinton,County,New York,0.27
+36021,Columbia,County,New York,0.70
+36023,Cortland,County,New York,0.33
+36025,Delaware,County,New York,0.56
+36027,Dutchess,County,New York,2.78
+36029,Erie,County,New York,0.56
+36031,Essex,County,New York,0.28
+36033,Franklin,County,New York,0.14
+36035,Fulton,County,New York,0.77
+36037,Genesee,County,New York,0.49
+36039,Greene,County,New York,1.03
+36041,Hamilton,County,New York,0.00
+36043,Herkimer,County,New York,0.49
+36045,Jefferson,County,New York,0.13
+36047,Kings,County,New York,(D)
+36049,Lewis,County,New York,0.23
+36051,Livingston,County,New York,0.39
+36053,Madison,County,New York,0.37
+36055,Monroe,County,New York,0.17
+36057,Montgomery,County,New York,1.23
+36059,Nassau,County,New York,0.00
+36061,New York,County,New York,(D)
+36063,Niagara,County,New York,0.50
+36065,Oneida,County,New York,0.31
+36067,Onondaga,County,New York,0.48
+36069,Ontario,County,New York,0.26
+36071,Orange,County,New York,0.58
+36073,Orleans,County,New York,0.27
+36075,Oswego,County,New York,0.70
+36077,Otsego,County,New York,0.75
+36079,Putnam,County,New York,1.24
+36081,Queens,County,New York,(D)
+36083,Rensselaer,County,New York,0.29
+36085,Richmond,County,New York,(D)
+36087,Rockland,County,New York,(D)
+36089,St. Lawrence,County,New York,0.19
+36091,Saratoga,County,New York,0.57
+36093,Schenectady,County,New York,0.22
+36095,Schoharie,County,New York,1.00
+36097,Schuyler,County,New York,0.52
+36099,Seneca,County,New York,0.47
+36101,Steuben,County,New York,0.55
+36103,Suffolk,County,New York,0.78
+36105,Sullivan,County,New York,0.94
+36107,Tioga,County,New York,0.85
+36109,Tompkins,County,New York,0.57
+36111,Ulster,County,New York,0.46
+36113,Warren,County,New York,9.82
+36115,Washington,County,New York,0.33
+36117,Wayne,County,New York,0.29
+36119,Westchester,County,New York,(D)
+36121,Wyoming,County,New York,0.54
+36123,Yates,County,New York,0.29
+37001,Alamance,County,North Carolina,1.37
+37003,Alexander,County,North Carolina,0.83
+37005,Alleghany,County,North Carolina,0.23
+37007,Anson,County,North Carolina,0.58
+37009,Ashe,County,North Carolina,1.25
+37011,Avery,County,North Carolina,0.45
+37013,Beaufort,County,North Carolina,0.25
+37015,Bertie,County,North Carolina,0.25
+37017,Bladen,County,North Carolina,0.21
+37019,Brunswick,County,North Carolina,0.89
+37021,Buncombe,County,North Carolina,2.49
+37023,Burke,County,North Carolina,1.73
+37025,Cabarrus,County,North Carolina,1.30
+37027,Caldwell,County,North Carolina,1.17
+37029,Camden,County,North Carolina,0.19
+37031,Carteret,County,North Carolina,0.23
+37033,Caswell,County,North Carolina,0.62
+37035,Catawba,County,North Carolina,1.13
+37037,Chatham,County,North Carolina,1.97
+37039,Cherokee,County,North Carolina,2.37
+37041,Chowan,County,North Carolina,0.05
+37043,Clay,County,North Carolina,1.64
+37045,Cleveland,County,North Carolina,1.37
+37047,Columbus,County,North Carolina,0.42
+37049,Craven,County,North Carolina,0.30
+37051,Cumberland,County,North Carolina,0.69
+37053,Currituck,County,North Carolina,0.29
+37055,Dare,County,North Carolina,(D)
+37057,Davidson,County,North Carolina,2.15
+37059,Davie,County,North Carolina,0.98
+37061,Duplin,County,North Carolina,0.33
+37063,Durham,County,North Carolina,1.84
+37065,Edgecombe,County,North Carolina,0.21
+37067,Forsyth,County,North Carolina,2.84
+37069,Franklin,County,North Carolina,0.91
+37071,Gaston,County,North Carolina,1.66
+37073,Gates,County,North Carolina,0.65
+37075,Graham,County,North Carolina,2.16
+37077,Granville,County,North Carolina,1.03
+37079,Greene,County,North Carolina,0.07
+37081,Guilford,County,North Carolina,1.46
+37083,Halifax,County,North Carolina,0.14
+37085,Harnett,County,North Carolina,0.74
+37087,Haywood,County,North Carolina,2.31
+37089,Henderson,County,North Carolina,2.08
+37091,Hertford,County,North Carolina,0.15
+37093,Hoke,County,North Carolina,0.59
+37095,Hyde,County,North Carolina,(D)
+37097,Iredell,County,North Carolina,0.57
+37099,Jackson,County,North Carolina,2.10
+37101,Johnston,County,North Carolina,0.95
+37103,Jones,County,North Carolina,0.45
+37105,Lee,County,North Carolina,0.60
+37107,Lenoir,County,North Carolina,0.05
+37109,Lincoln,County,North Carolina,1.18
+37111,McDowell,County,North Carolina,0.79
+37113,Macon,County,North Carolina,1.27
+37115,Madison,County,North Carolina,1.64
+37117,Martin,County,North Carolina,0.08
+37119,Mecklenburg,County,North Carolina,3.76
+37121,Mitchell,County,North Carolina,1.85
+37123,Montgomery,County,North Carolina,0.82
+37125,Moore,County,North Carolina,2.04
+37127,Nash,County,North Carolina,0.50
+37129,New Hanover,County,North Carolina,(D)
+37131,Northampton,County,North Carolina,0.16
+37133,Onslow,County,North Carolina,0.43
+37135,Orange,County,North Carolina,1.26
+37137,Pamlico,County,North Carolina,0.16
+37139,Pasquotank,County,North Carolina,0.19
+37141,Pender,County,North Carolina,0.45
+37143,Perquimans,County,North Carolina,0.14
+37145,Person,County,North Carolina,0.34
+37147,Pitt,County,North Carolina,0.32
+37149,Polk,County,North Carolina,1.01
+37151,Randolph,County,North Carolina,1.73
+37153,Richmond,County,North Carolina,2.40
+37155,Robeson,County,North Carolina,0.22
+37157,Rockingham,County,North Carolina,0.93
+37159,Rowan,County,North Carolina,1.34
+37161,Rutherford,County,North Carolina,1.66
+37163,Sampson,County,North Carolina,0.34
+37165,Scotland,County,North Carolina,0.22
+37167,Stanly,County,North Carolina,1.33
+37169,Stokes,County,North Carolina,1.79
+37171,Surry,County,North Carolina,1.33
+37173,Swain,County,North Carolina,(D)
+37175,Transylvania,County,North Carolina,3.29
+37177,Tyrrell,County,North Carolina,(D)
+37179,Union,County,North Carolina,0.60
+37181,Vance,County,North Carolina,2.06
+37183,Wake,County,North Carolina,1.94
+37185,Warren,County,North Carolina,0.37
+37187,Washington,County,North Carolina,0.12
+37189,Watauga,County,North Carolina,1.04
+37191,Wayne,County,North Carolina,0.75
+37193,Wilkes,County,North Carolina,1.21
+37195,Wilson,County,North Carolina,0.18
+37197,Yadkin,County,North Carolina,1.12
+37199,Yancey,County,North Carolina,1.14
+38001,Adams,County,North Dakota,0.00
+38003,Barnes,County,North Dakota,0.01
+38005,Benson,County,North Dakota,(D)
+38007,Billings,County,North Dakota,(D)
+38009,Bottineau,County,North Dakota,0.00
+38011,Bowman,County,North Dakota,0.02
+38013,Burke,County,North Dakota,0.01
+38015,Burleigh,County,North Dakota,0.03
+38017,Cass,County,North Dakota,0.01
+38019,Cavalier,County,North Dakota,(D)
+38021,Dickey,County,North Dakota,0.02
+38023,Divide,County,North Dakota,0.01
+38025,Dunn,County,North Dakota,0.02
+38027,Eddy,County,North Dakota,0.00
+38029,Emmons,County,North Dakota,(D)
+38031,Foster,County,North Dakota,0.00
+38033,Golden Valley,County,North Dakota,(D)
+38035,Grand Forks,County,North Dakota,0.00
+38037,Grant,County,North Dakota,0.01
+38039,Griggs,County,North Dakota,0.00
+38041,Hettinger,County,North Dakota,(D)
+38043,Kidder,County,North Dakota,0.00
+38045,LaMoure,County,North Dakota,0.00
+38047,Logan,County,North Dakota,(D)
+38049,McHenry,County,North Dakota,0.01
+38051,McIntosh,County,North Dakota,0.01
+38053,McKenzie,County,North Dakota,0.02
+38055,McLean,County,North Dakota,0.02
+38057,Mercer,County,North Dakota,(D)
+38059,Morton,County,North Dakota,0.02
+38061,Mountrail,County,North Dakota,0.01
+38063,Nelson,County,North Dakota,(D)
+38065,Oliver,County,North Dakota,0.02
+38067,Pembina,County,North Dakota,(D)
+38069,Pierce,County,North Dakota,0.00
+38071,Ramsey,County,North Dakota,(D)
+38073,Ransom,County,North Dakota,0.02
+38075,Renville,County,North Dakota,(D)
+38077,Richland,County,North Dakota,0.02
+38079,Rolette,County,North Dakota,0.01
+38081,Sargent,County,North Dakota,(D)
+38083,Sheridan,County,North Dakota,0.00
+38085,Sioux,County,North Dakota,0.00
+38087,Slope,County,North Dakota,0.01
+38089,Stark,County,North Dakota,0.06
+38091,Steele,County,North Dakota,0.00
+38093,Stutsman,County,North Dakota,0.02
+38095,Towner,County,North Dakota,0.01
+38097,Traill,County,North Dakota,0.01
+38099,Walsh,County,North Dakota,0.05
+38101,Ward,County,North Dakota,0.01
+38103,Wells,County,North Dakota,0.02
+38105,Williams,County,North Dakota,(D)
+39001,Adams,County,Ohio,0.67
+39003,Allen,County,Ohio,0.14
+39005,Ashland,County,Ohio,0.46
+39007,Ashtabula,County,Ohio,0.41
+39009,Athens,County,Ohio,0.63
+39011,Auglaize,County,Ohio,0.25
+39013,Belmont,County,Ohio,1.13
+39015,Brown,County,Ohio,0.30
+39017,Butler,County,Ohio,0.58
+39019,Carroll,County,Ohio,0.47
+39021,Champaign,County,Ohio,0.45
+39023,Clark,County,Ohio,0.36
+39025,Clermont,County,Ohio,0.87
+39027,Clinton,County,Ohio,0.25
+39029,Columbiana,County,Ohio,0.71
+39031,Coshocton,County,Ohio,0.70
+39033,Crawford,County,Ohio,0.22
+39035,Cuyahoga,County,Ohio,0.35
+39037,Darke,County,Ohio,0.29
+39039,Defiance,County,Ohio,0.36
+39041,Delaware,County,Ohio,0.39
+39043,Erie,County,Ohio,0.12
+39045,Fairfield,County,Ohio,0.27
+39047,Fayette,County,Ohio,0.32
+39049,Franklin,County,Ohio,0.29
+39051,Fulton,County,Ohio,0.19
+39053,Gallia,County,Ohio,1.12
+39055,Geauga,County,Ohio,1.20
+39057,Greene,County,Ohio,0.38
+39059,Guernsey,County,Ohio,0.48
+39061,Hamilton,County,Ohio,1.14
+39063,Hancock,County,Ohio,0.16
+39065,Hardin,County,Ohio,0.13
+39067,Harrison,County,Ohio,0.38
+39069,Henry,County,Ohio,0.07
+39071,Highland,County,Ohio,0.44
+39073,Hocking,County,Ohio,1.16
+39075,Holmes,County,Ohio,0.37
+39077,Huron,County,Ohio,0.22
+39079,Jackson,County,Ohio,0.70
+39081,Jefferson,County,Ohio,0.53
+39083,Knox,County,Ohio,0.68
+39085,Lake,County,Ohio,0.45
+39087,Lawrence,County,Ohio,0.99
+39089,Licking,County,Ohio,0.41
+39091,Logan,County,Ohio,0.23
+39093,Lorain,County,Ohio,0.28
+39095,Lucas,County,Ohio,0.08
+39097,Madison,County,Ohio,0.08
+39099,Mahoning,County,Ohio,0.31
+39101,Marion,County,Ohio,0.27
+39103,Medina,County,Ohio,0.65
+39105,Meigs,County,Ohio,0.76
+39107,Mercer,County,Ohio,0.23
+39109,Miami,County,Ohio,0.26
+39111,Monroe,County,Ohio,0.60
+39113,Montgomery,County,Ohio,0.38
+39115,Morgan,County,Ohio,0.46
+39117,Morrow,County,Ohio,0.63
+39119,Muskingum,County,Ohio,0.62
+39121,Noble,County,Ohio,0.65
+39123,Ottawa,County,Ohio,0.15
+39125,Paulding,County,Ohio,0.18
+39127,Perry,County,Ohio,1.14
+39129,Pickaway,County,Ohio,0.14
+39131,Pike,County,Ohio,0.44
+39133,Portage,County,Ohio,0.74
+39135,Preble,County,Ohio,0.54
+39137,Putnam,County,Ohio,0.22
+39139,Richland,County,Ohio,0.38
+39141,Ross,County,Ohio,0.20
+39143,Sandusky,County,Ohio,0.20
+39145,Scioto,County,Ohio,0.93
+39147,Seneca,County,Ohio,0.09
+39149,Shelby,County,Ohio,0.15
+39151,Stark,County,Ohio,0.67
+39153,Summit,County,Ohio,1.74
+39155,Trumbull,County,Ohio,0.36
+39157,Tuscarawas,County,Ohio,0.79
+39159,Union,County,Ohio,0.38
+39161,Van Wert,County,Ohio,0.04
+39163,Vinton,County,Ohio,0.21
+39165,Warren,County,Ohio,0.34
+39167,Washington,County,Ohio,0.35
+39169,Wayne,County,Ohio,0.38
+39171,Williams,County,Ohio,0.17
+39173,Wood,County,Ohio,0.17
+39175,Wyandot,County,Ohio,0.08
+40001,Adair,County,Oklahoma,0.44
+40003,Alfalfa,County,Oklahoma,0.03
+40005,Atoka,County,Oklahoma,0.28
+40007,Beaver,County,Oklahoma,0.02
+40009,Beckham,County,Oklahoma,0.10
+40011,Blaine,County,Oklahoma,0.07
+40013,Bryan,County,Oklahoma,0.21
+40015,Caddo,County,Oklahoma,0.15
+40017,Canadian,County,Oklahoma,0.26
+40019,Carter,County,Oklahoma,0.32
+40021,Cherokee,County,Oklahoma,0.95
+40023,Choctaw,County,Oklahoma,0.22
+40025,Cimarron,County,Oklahoma,0.01
+40027,Cleveland,County,Oklahoma,2.20
+40029,Coal,County,Oklahoma,0.23
+40031,Comanche,County,Oklahoma,0.27
+40033,Cotton,County,Oklahoma,0.04
+40035,Craig,County,Oklahoma,0.30
+40037,Creek,County,Oklahoma,0.82
+40039,Custer,County,Oklahoma,0.04
+40041,Delaware,County,Oklahoma,0.42
+40043,Dewey,County,Oklahoma,0.02
+40045,Ellis,County,Oklahoma,0.05
+40047,Garfield,County,Oklahoma,0.11
+40049,Garvin,County,Oklahoma,0.51
+40051,Grady,County,Oklahoma,0.33
+40053,Grant,County,Oklahoma,0.06
+40055,Greer,County,Oklahoma,0.15
+40057,Harmon,County,Oklahoma,0.31
+40059,Harper,County,Oklahoma,0.07
+40061,Haskell,County,Oklahoma,0.12
+40063,Hughes,County,Oklahoma,0.36
+40065,Jackson,County,Oklahoma,0.10
+40067,Jefferson,County,Oklahoma,0.02
+40069,Johnston,County,Oklahoma,0.45
+40071,Kay,County,Oklahoma,0.12
+40073,Kingfisher,County,Oklahoma,0.05
+40075,Kiowa,County,Oklahoma,0.10
+40077,Latimer,County,Oklahoma,0.35
+40079,Le Flore,County,Oklahoma,0.43
+40081,Lincoln,County,Oklahoma,0.67
+40083,Logan,County,Oklahoma,1.71
+40085,Love,County,Oklahoma,0.43
+40087,McClain,County,Oklahoma,0.26
+40089,McCurtain,County,Oklahoma,0.28
+40091,McIntosh,County,Oklahoma,0.31
+40093,Major,County,Oklahoma,0.10
+40095,Marshall,County,Oklahoma,0.38
+40097,Mayes,County,Oklahoma,0.63
+40099,Murray,County,Oklahoma,0.20
+40101,Muskogee,County,Oklahoma,0.52
+40103,Noble,County,Oklahoma,0.25
+40105,Nowata,County,Oklahoma,0.30
+40107,Okfuskee,County,Oklahoma,0.16
+40109,Oklahoma,County,Oklahoma,1.60
+40111,Okmulgee,County,Oklahoma,0.48
+40113,Osage,County,Oklahoma,0.15
+40115,Ottawa,County,Oklahoma,0.83
+40117,Pawnee,County,Oklahoma,0.82
+40119,Payne,County,Oklahoma,0.57
+40121,Pittsburg,County,Oklahoma,0.46
+40123,Pontotoc,County,Oklahoma,0.79
+40125,Pottawatomie,County,Oklahoma,0.57
+40127,Pushmataha,County,Oklahoma,0.31
+40129,Roger Mills,County,Oklahoma,0.04
+40131,Rogers,County,Oklahoma,0.59
+40133,Seminole,County,Oklahoma,0.36
+40135,Sequoyah,County,Oklahoma,0.61
+40137,Stephens,County,Oklahoma,0.32
+40139,Texas,County,Oklahoma,0.10
+40141,Tillman,County,Oklahoma,0.08
+40143,Tulsa,County,Oklahoma,0.92
+40145,Wagoner,County,Oklahoma,0.50
+40147,Washington,County,Oklahoma,0.25
+40149,Washita,County,Oklahoma,0.07
+40151,Woods,County,Oklahoma,0.07
+40153,Woodward,County,Oklahoma,0.11
+41001,Baker,County,Oregon,0.10
+41003,Benton,County,Oregon,0.38
+41005,Clackamas,County,Oregon,1.58
+41007,Clatsop,County,Oregon,1.02
+41009,Columbia,County,Oregon,0.59
+41011,Coos,County,Oregon,0.80
+41013,Crook,County,Oregon,0.05
+41015,Curry,County,Oregon,0.35
+41017,Deschutes,County,Oregon,1.16
+41019,Douglas,County,Oregon,0.73
+41021,Gilliam,County,Oregon,(D)
+41023,Grant,County,Oregon,0.02
+41025,Harney,County,Oregon,0.04
+41027,Hood River,County,Oregon,1.56
+41029,Jackson,County,Oregon,1.12
+41031,Jefferson,County,Oregon,0.05
+41033,Josephine,County,Oregon,1.42
+41035,Klamath,County,Oregon,0.14
+41037,Lake,County,Oregon,0.15
+41039,Lane,County,Oregon,1.23
+41041,Lincoln,County,Oregon,1.58
+41043,Linn,County,Oregon,0.73
+41045,Malheur,County,Oregon,0.17
+41047,Marion,County,Oregon,0.66
+41049,Morrow,County,Oregon,(D)
+41051,Multnomah,County,Oregon,1.18
+41053,Polk,County,Oregon,0.69
+41055,Sherman,County,Oregon,0.01
+41057,Tillamook,County,Oregon,0.59
+41059,Umatilla,County,Oregon,0.07
+41061,Union,County,Oregon,0.11
+41063,Wallowa,County,Oregon,0.19
+41065,Wasco,County,Oregon,0.02
+41067,Washington,County,Oregon,0.69
+41069,Wheeler,County,Oregon,(D)
+41071,Yamhill,County,Oregon,1.17
+42001,Adams,County,Pennsylvania,0.85
+42003,Allegheny,County,Pennsylvania,1.25
+42005,Armstrong,County,Pennsylvania,0.26
+42007,Beaver,County,Pennsylvania,0.62
+42009,Bedford,County,Pennsylvania,0.73
+42011,Berks,County,Pennsylvania,1.32
+42013,Blair,County,Pennsylvania,0.90
+42015,Bradford,County,Pennsylvania,0.20
+42017,Bucks,County,Pennsylvania,1.17
+42019,Butler,County,Pennsylvania,0.49
+42021,Cambria,County,Pennsylvania,0.63
+42023,Cameron,County,Pennsylvania,0.00
+42025,Carbon,County,Pennsylvania,1.12
+42027,Centre,County,Pennsylvania,0.65
+42029,Chester,County,Pennsylvania,0.65
+42031,Clarion,County,Pennsylvania,0.73
+42033,Clearfield,County,Pennsylvania,0.38
+42035,Clinton,County,Pennsylvania,0.41
+42037,Columbia,County,Pennsylvania,0.42
+42039,Crawford,County,Pennsylvania,0.45
+42041,Cumberland,County,Pennsylvania,0.73
+42043,Dauphin,County,Pennsylvania,1.21
+42045,Delaware,County,Pennsylvania,0.44
+42047,Elk,County,Pennsylvania,0.63
+42049,Erie,County,Pennsylvania,0.16
+42051,Fayette,County,Pennsylvania,0.89
+42053,Forest,County,Pennsylvania,0.49
+42055,Franklin,County,Pennsylvania,0.56
+42057,Fulton,County,Pennsylvania,0.61
+42059,Greene,County,Pennsylvania,0.70
+42061,Huntingdon,County,Pennsylvania,0.70
+42063,Indiana,County,Pennsylvania,0.63
+42065,Jefferson,County,Pennsylvania,0.60
+42067,Juniata,County,Pennsylvania,0.88
+42069,Lackawanna,County,Pennsylvania,0.42
+42071,Lancaster,County,Pennsylvania,0.94
+42073,Lawrence,County,Pennsylvania,0.67
+42075,Lebanon,County,Pennsylvania,0.48
+42077,Lehigh,County,Pennsylvania,0.85
+42079,Luzerne,County,Pennsylvania,0.36
+42081,Lycoming,County,Pennsylvania,0.54
+42083,McKean,County,Pennsylvania,1.08
+42085,Mercer,County,Pennsylvania,0.59
+42087,Mifflin,County,Pennsylvania,1.02
+42089,Monroe,County,Pennsylvania,1.25
+42091,Montgomery,County,Pennsylvania,1.39
+42093,Montour,County,Pennsylvania,1.43
+42095,Northampton,County,Pennsylvania,1.02
+42097,Northumberland,County,Pennsylvania,0.36
+42099,Perry,County,Pennsylvania,1.34
+42101,Philadelphia,County,Pennsylvania,0.00
+42103,Pike,County,Pennsylvania,0.15
+42105,Potter,County,Pennsylvania,0.23
+42107,Schuylkill,County,Pennsylvania,0.40
+42109,Snyder,County,Pennsylvania,0.80
+42111,Somerset,County,Pennsylvania,0.28
+42113,Sullivan,County,Pennsylvania,0.47
+42115,Susquehanna,County,Pennsylvania,0.47
+42117,Tioga,County,Pennsylvania,0.30
+42119,Union,County,Pennsylvania,0.58
+42121,Venango,County,Pennsylvania,0.68
+42123,Warren,County,Pennsylvania,0.14
+42125,Washington,County,Pennsylvania,0.63
+42127,Wayne,County,Pennsylvania,0.55
+42129,Westmoreland,County,Pennsylvania,0.66
+42131,Wyoming,County,Pennsylvania,0.24
+42133,York,County,Pennsylvania,0.93
+44001,Bristol,County,Rhode Island,(D)
+44003,Kent,County,Rhode Island,(D)
+44005,Newport,County,Rhode Island,2.99
+44007,Providence,County,Rhode Island,(D)
+44009,Washington,County,Rhode Island,0.52
+45001,Abbeville,County,South Carolina,1.72
+45003,Aiken,County,South Carolina,1.35
+45005,Allendale,County,South Carolina,0.05
+45007,Anderson,County,South Carolina,2.20
+45009,Bamberg,County,South Carolina,0.35
+45011,Barnwell,County,South Carolina,0.81
+45013,Beaufort,County,South Carolina,0.35
+45015,Berkeley,County,South Carolina,0.78
+45017,Calhoun,County,South Carolina,0.46
+45019,Charleston,County,South Carolina,1.12
+45021,Cherokee,County,South Carolina,0.83
+45023,Chester,County,South Carolina,0.53
+45025,Chesterfield,County,South Carolina,0.65
+45027,Clarendon,County,South Carolina,0.18
+45029,Colleton,County,South Carolina,0.37
+45031,Darlington,County,South Carolina,0.34
+45033,Dillon,County,South Carolina,0.39
+45035,Dorchester,County,South Carolina,0.64
+45037,Edgefield,County,South Carolina,0.85
+45039,Fairfield,County,South Carolina,0.38
+45041,Florence,County,South Carolina,0.47
+45043,Georgetown,County,South Carolina,0.31
+45045,Greenville,County,South Carolina,2.85
+45047,Greenwood,County,South Carolina,1.14
+45049,Hampton,County,South Carolina,0.27
+45051,Horry,County,South Carolina,0.90
+45053,Jasper,County,South Carolina,0.29
+45055,Kershaw,County,South Carolina,0.80
+45057,Lancaster,County,South Carolina,1.09
+45059,Laurens,County,South Carolina,0.70
+45061,Lee,County,South Carolina,0.38
+45063,Lexington,County,South Carolina,2.11
+45065,McCormick,County,South Carolina,0.49
+45067,Marion,County,South Carolina,0.38
+45069,Marlboro,County,South Carolina,0.15
+45071,Newberry,County,South Carolina,1.54
+45073,Oconee,County,South Carolina,1.55
+45075,Orangeburg,County,South Carolina,0.65
+45077,Pickens,County,South Carolina,1.78
+45079,Richland,County,South Carolina,1.58
+45081,Saluda,County,South Carolina,0.75
+45083,Spartanburg,County,South Carolina,2.36
+45085,Sumter,County,South Carolina,0.25
+45087,Union,County,South Carolina,0.66
+45089,Williamsburg,County,South Carolina,0.17
+45091,York,County,South Carolina,0.91
+46003,Aurora,County,South Dakota,0.01
+46005,Beadle,County,South Dakota,0.09
+46007,Bennett,County,South Dakota,0.00
+46009,Bon Homme,County,South Dakota,0.15
+46011,Brookings,County,South Dakota,0.13
+46013,Brown,County,South Dakota,0.03
+46015,Brule,County,South Dakota,0.04
+46017,Buffalo,County,South Dakota,0.00
+46019,Butte,County,South Dakota,0.05
+46021,Campbell,County,South Dakota,0.00
+46023,Charles Mix,County,South Dakota,0.09
+46025,Clark,County,South Dakota,0.10
+46027,Clay,County,South Dakota,0.69
+46029,Codington,County,South Dakota,0.03
+46031,Corson,County,South Dakota,0.05
+46033,Custer,County,South Dakota,0.06
+46035,Davison,County,South Dakota,0.02
+46037,Day,County,South Dakota,0.04
+46039,Deuel,County,South Dakota,0.13
+46041,Dewey,County,South Dakota,(D)
+46043,Douglas,County,South Dakota,0.02
+46045,Edmunds,County,South Dakota,0.01
+46047,Fall River,County,South Dakota,0.02
+46049,Faulk,County,South Dakota,0.00
+46051,Grant,County,South Dakota,0.04
+46053,Gregory,County,South Dakota,0.03
+46055,Haakon,County,South Dakota,(D)
+46057,Hamlin,County,South Dakota,0.09
+46059,Hand,County,South Dakota,0.02
+46061,Hanson,County,South Dakota,0.01
+46063,Harding,County,South Dakota,0.04
+46065,Hughes,County,South Dakota,0.03
+46067,Hutchinson,County,South Dakota,0.07
+46069,Hyde,County,South Dakota,0.01
+46071,Jackson,County,South Dakota,0.00
+46073,Jerauld,County,South Dakota,0.16
+46075,Jones,County,South Dakota,(D)
+46077,Kingsbury,County,South Dakota,0.01
+46079,Lake,County,South Dakota,0.07
+46081,Lawrence,County,South Dakota,0.05
+46083,Lincoln,County,South Dakota,0.03
+46085,Lyman,County,South Dakota,0.04
+46087,McCook,County,South Dakota,0.35
+46089,McPherson,County,South Dakota,0.02
+46091,Marshall,County,South Dakota,0.01
+46093,Meade,County,South Dakota,0.04
+46095,Mellette,County,South Dakota,0.01
+46097,Miner,County,South Dakota,0.02
+46099,Minnehaha,County,South Dakota,0.16
+46101,Moody,County,South Dakota,0.01
+46103,Pennington,County,South Dakota,0.01
+46105,Perkins,County,South Dakota,0.01
+46107,Potter,County,South Dakota,(D)
+46109,Roberts,County,South Dakota,0.03
+46111,Sanborn,County,South Dakota,0.01
+46113,Shannon,County,South Dakota,0.01
+46115,Spink,County,South Dakota,0.01
+46117,Stanley,County,South Dakota,(D)
+46119,Sully,County,South Dakota,(D)
+46121,Todd,County,South Dakota,0.05
+46123,Tripp,County,South Dakota,0.04
+46125,Turner,County,South Dakota,0.08
+46127,Union,County,South Dakota,(D)
+46129,Walworth,County,South Dakota,0.01
+46135,Yankton,County,South Dakota,0.01
+46137,Ziebach,County,South Dakota,0.00
+47001,Anderson,County,Tennessee,1.53
+47003,Bedford,County,Tennessee,0.82
+47005,Benton,County,Tennessee,0.46
+47007,Bledsoe,County,Tennessee,0.66
+47009,Blount,County,Tennessee,0.72
+47011,Bradley,County,Tennessee,0.72
+47013,Campbell,County,Tennessee,1.18
+47015,Cannon,County,Tennessee,2.37
+47017,Carroll,County,Tennessee,0.75
+47019,Carter,County,Tennessee,1.26
+47021,Cheatham,County,Tennessee,0.94
+47023,Chester,County,Tennessee,0.53
+47025,Claiborne,County,Tennessee,0.37
+47027,Clay,County,Tennessee,0.53
+47029,Cocke,County,Tennessee,1.14
+47031,Coffee,County,Tennessee,1.21
+47033,Crockett,County,Tennessee,(D)
+47035,Cumberland,County,Tennessee,0.65
+47037,Davidson,County,Tennessee,2.54
+47039,Decatur,County,Tennessee,1.32
+47041,DeKalb,County,Tennessee,1.59
+47043,Dickson,County,Tennessee,1.06
+47045,Dyer,County,Tennessee,0.48
+47047,Fayette,County,Tennessee,0.08
+47049,Fentress,County,Tennessee,0.57
+47051,Franklin,County,Tennessee,0.89
+47053,Gibson,County,Tennessee,0.13
+47055,Giles,County,Tennessee,0.69
+47057,Grainger,County,Tennessee,1.04
+47059,Greene,County,Tennessee,0.64
+47061,Grundy,County,Tennessee,3.25
+47063,Hamblen,County,Tennessee,0.63
+47065,Hamilton,County,Tennessee,1.04
+47067,Hancock,County,Tennessee,0.56
+47069,Hardeman,County,Tennessee,0.43
+47071,Hardin,County,Tennessee,0.73
+47073,Hawkins,County,Tennessee,1.14
+47075,Haywood,County,Tennessee,(D)
+47077,Henderson,County,Tennessee,0.55
+47079,Henry,County,Tennessee,0.27
+47081,Hickman,County,Tennessee,0.91
+47083,Houston,County,Tennessee,0.76
+47085,Humphreys,County,Tennessee,0.43
+47087,Jackson,County,Tennessee,2.08
+47089,Jefferson,County,Tennessee,0.55
+47091,Johnson,County,Tennessee,1.19
+47093,Knox,County,Tennessee,1.46
+47095,Lake,County,Tennessee,0.00
+47097,Lauderdale,County,Tennessee,0.09
+47099,Lawrence,County,Tennessee,1.29
+47101,Lewis,County,Tennessee,1.05
+47103,Lincoln,County,Tennessee,0.72
+47105,Loudon,County,Tennessee,0.42
+47107,McMinn,County,Tennessee,0.35
+47109,McNairy,County,Tennessee,0.59
+47111,Macon,County,Tennessee,1.25
+47113,Madison,County,Tennessee,0.46
+47115,Marion,County,Tennessee,7.09
+47117,Marshall,County,Tennessee,2.24
+47119,Maury,County,Tennessee,1.15
+47121,Meigs,County,Tennessee,0.53
+47123,Monroe,County,Tennessee,0.53
+47125,Montgomery,County,Tennessee,0.49
+47127,Moore,County,Tennessee,0.68
+47129,Morgan,County,Tennessee,0.69
+47131,Obion,County,Tennessee,0.10
+47133,Overton,County,Tennessee,0.53
+47135,Perry,County,Tennessee,0.55
+47137,Pickett,County,Tennessee,0.52
+47139,Polk,County,Tennessee,0.49
+47141,Putnam,County,Tennessee,2.78
+47143,Rhea,County,Tennessee,0.74
+47145,Roane,County,Tennessee,0.52
+47147,Robertson,County,Tennessee,0.52
+47149,Rutherford,County,Tennessee,2.06
+47151,Scott,County,Tennessee,0.43
+47153,Sequatchie,County,Tennessee,0.83
+47155,Sevier,County,Tennessee,0.93
+47157,Shelby,County,Tennessee,0.72
+47159,Smith,County,Tennessee,2.16
+47161,Stewart,County,Tennessee,1.12
+47163,Sullivan,County,Tennessee,0.99
+47165,Sumner,County,Tennessee,1.33
+47167,Tipton,County,Tennessee,0.24
+47169,Trousdale,County,Tennessee,1.14
+47171,Unicoi,County,Tennessee,1.36
+47173,Union,County,Tennessee,0.31
+47175,Van Buren,County,Tennessee,1.16
+47177,Warren,County,Tennessee,1.21
+47179,Washington,County,Tennessee,1.06
+47181,Wayne,County,Tennessee,0.34
+47183,Weakley,County,Tennessee,0.43
+47185,White,County,Tennessee,0.95
+47187,Williamson,County,Tennessee,1.37
+47189,Wilson,County,Tennessee,2.04
+48001,Anderson,County,Texas,0.46
+48003,Andrews,County,Texas,0.08
+48005,Angelina,County,Texas,1.21
+48007,Aransas,County,Texas,0.27
+48009,Archer,County,Texas,0.07
+48011,Armstrong,County,Texas,0.00
+48013,Atascosa,County,Texas,0.34
+48015,Austin,County,Texas,0.29
+48017,Bailey,County,Texas,0.06
+48019,Bandera,County,Texas,2.52
+48021,Bastrop,County,Texas,0.76
+48023,Baylor,County,Texas,0.03
+48025,Bee,County,Texas,0.37
+48027,Bell,County,Texas,3.04
+48029,Bexar,County,Texas,1.57
+48031,Blanco,County,Texas,2.27
+48033,Borden,County,Texas,0.01
+48035,Bosque,County,Texas,0.94
+48037,Bowie,County,Texas,0.51
+48039,Brazoria,County,Texas,0.65
+48041,Brazos,County,Texas,0.62
+48043,Brewster,County,Texas,0.05
+48045,Briscoe,County,Texas,0.30
+48047,Brooks,County,Texas,0.04
+48049,Brown,County,Texas,1.72
+48051,Burleson,County,Texas,0.57
+48053,Burnet,County,Texas,3.13
+48055,Caldwell,County,Texas,0.99
+48057,Calhoun,County,Texas,0.41
+48059,Callahan,County,Texas,0.50
+48061,Cameron,County,Texas,0.74
+48063,Camp,County,Texas,0.30
+48065,Carson,County,Texas,0.01
+48067,Cass,County,Texas,0.42
+48069,Castro,County,Texas,0.11
+48071,Chambers,County,Texas,0.27
+48073,Cherokee,County,Texas,0.49
+48075,Childress,County,Texas,0.03
+48077,Clay,County,Texas,0.12
+48079,Cochran,County,Texas,0.04
+48081,Coke,County,Texas,3.21
+48083,Coleman,County,Texas,0.50
+48085,Collin,County,Texas,1.51
+48087,Collingsworth,County,Texas,0.05
+48089,Colorado,County,Texas,0.13
+48091,Comal,County,Texas,3.93
+48093,Comanche,County,Texas,1.01
+48095,Concho,County,Texas,2.13
+48097,Cooke,County,Texas,0.62
+48099,Coryell,County,Texas,2.31
+48101,Cottle,County,Texas,0.05
+48103,Crane,County,Texas,0.08
+48105,Crockett,County,Texas,1.57
+48107,Crosby,County,Texas,0.13
+48109,Culberson,County,Texas,0.01
+48111,Dallam,County,Texas,0.01
+48113,Dallas,County,Texas,2.07
+48115,Dawson,County,Texas,0.05
+48117,Deaf Smith,County,Texas,0.02
+48119,Delta,County,Texas,0.44
+48121,Denton,County,Texas,0.87
+48123,DeWitt,County,Texas,0.18
+48125,Dickens,County,Texas,0.10
+48127,Dimmit,County,Texas,0.19
+48129,Donley,County,Texas,0.03
+48131,Duval,County,Texas,0.10
+48133,Eastland,County,Texas,0.94
+48135,Ector,County,Texas,0.22
+48137,Edwards,County,Texas,4.71
+48139,Ellis,County,Texas,0.82
+48141,El Paso,County,Texas,1.08
+48143,Erath,County,Texas,1.24
+48145,Falls,County,Texas,0.52
+48147,Fannin,County,Texas,0.77
+48149,Fayette,County,Texas,0.31
+48151,Fisher,County,Texas,0.14
+48153,Floyd,County,Texas,0.05
+48155,Foard,County,Texas,(D)
+48157,Fort Bend,County,Texas,0.18
+48159,Franklin,County,Texas,0.36
+48161,Freestone,County,Texas,0.28
+48163,Frio,County,Texas,0.13
+48165,Gaines,County,Texas,0.02
+48167,Galveston,County,Texas,0.82
+48169,Garza,County,Texas,0.12
+48171,Gillespie,County,Texas,4.27
+48173,Glasscock,County,Texas,0.28
+48175,Goliad,County,Texas,0.09
+48177,Gonzales,County,Texas,0.19
+48179,Gray,County,Texas,0.05
+48181,Grayson,County,Texas,1.08
+48183,Gregg,County,Texas,0.77
+48185,Grimes,County,Texas,0.29
+48187,Guadalupe,County,Texas,1.68
+48189,Hale,County,Texas,0.10
+48191,Hall,County,Texas,0.01
+48193,Hamilton,County,Texas,1.99
+48195,Hansford,County,Texas,0.03
+48197,Hardeman,County,Texas,0.08
+48199,Hardin,County,Texas,1.82
+48201,Harris,County,Texas,1.06
+48203,Harrison,County,Texas,0.49
+48205,Hartley,County,Texas,0.02
+48207,Haskell,County,Texas,0.04
+48209,Hays,County,Texas,3.52
+48211,Hemphill,County,Texas,0.04
+48213,Henderson,County,Texas,0.62
+48215,Hidalgo,County,Texas,0.60
+48217,Hill,County,Texas,0.73
+48219,Hockley,County,Texas,0.11
+48221,Hood,County,Texas,2.04
+48223,Hopkins,County,Texas,0.32
+48225,Houston,County,Texas,0.20
+48227,Howard,County,Texas,0.13
+48229,Hudspeth,County,Texas,0.07
+48231,Hunt,County,Texas,1.56
+48233,Hutchinson,County,Texas,0.01
+48235,Irion,County,Texas,1.33
+48237,Jack,County,Texas,0.39
+48239,Jackson,County,Texas,0.15
+48241,Jasper,County,Texas,0.77
+48243,Jeff Davis,County,Texas,0.01
+48245,Jefferson,County,Texas,0.17
+48247,Jim Hogg,County,Texas,0.01
+48249,Jim Wells,County,Texas,0.37
+48251,Johnson,County,Texas,1.38
+48253,Jones,County,Texas,0.29
+48255,Karnes,County,Texas,0.19
+48257,Kaufman,County,Texas,0.84
+48259,Kendall,County,Texas,4.83
+48261,Kenedy,County,Texas,(D)
+48263,Kent,County,Texas,0.00
+48265,Kerr,County,Texas,2.37
+48267,Kimble,County,Texas,2.89
+48269,King,County,Texas,(D)
+48271,Kinney,County,Texas,1.42
+48273,Kleberg,County,Texas,0.09
+48275,Knox,County,Texas,0.02
+48277,Lamar,County,Texas,0.31
+48279,Lamb,County,Texas,0.12
+48281,Lampasas,County,Texas,1.93
+48283,La Salle,County,Texas,0.10
+48285,Lavaca,County,Texas,0.19
+48287,Lee,County,Texas,0.33
+48289,Leon,County,Texas,0.31
+48291,Liberty,County,Texas,0.46
+48293,Limestone,County,Texas,0.32
+48295,Lipscomb,County,Texas,(D)
+48297,Live Oak,County,Texas,0.26
+48299,Llano,County,Texas,0.46
+48301,Loving,County,Texas,(D)
+48303,Lubbock,County,Texas,0.19
+48305,Lynn,County,Texas,0.07
+48307,McCulloch,County,Texas,1.45
+48309,McLennan,County,Texas,1.04
+48311,McMullen,County,Texas,0.02
+48313,Madison,County,Texas,0.34
+48315,Marion,County,Texas,0.80
+48317,Martin,County,Texas,0.10
+48319,Mason,County,Texas,1.07
+48321,Matagorda,County,Texas,0.15
+48323,Maverick,County,Texas,0.29
+48325,Medina,County,Texas,0.53
+48327,Menard,County,Texas,2.20
+48329,Midland,County,Texas,0.40
+48331,Milam,County,Texas,0.71
+48333,Mills,County,Texas,4.95
+48335,Mitchell,County,Texas,0.10
+48337,Montague,County,Texas,0.35
+48339,Montgomery,County,Texas,1.74
+48341,Moore,County,Texas,0.05
+48343,Morris,County,Texas,0.88
+48345,Motley,County,Texas,0.01
+48347,Nacogdoches,County,Texas,0.21
+48349,Navarro,County,Texas,1.00
+48351,Newton,County,Texas,0.68
+48353,Nolan,County,Texas,0.14
+48355,Nueces,County,Texas,0.15
+48357,Ochiltree,County,Texas,(D)
+48359,Oldham,County,Texas,(D)
+48361,Orange,County,Texas,2.10
+48363,Palo Pinto,County,Texas,0.53
+48365,Panola,County,Texas,0.59
+48367,Parker,County,Texas,1.93
+48369,Parmer,County,Texas,0.03
+48371,Pecos,County,Texas,0.32
+48373,Polk,County,Texas,0.80
+48375,Potter,County,Texas,0.03
+48377,Presidio,County,Texas,0.02
+48379,Rains,County,Texas,(D)
+48381,Randall,County,Texas,0.14
+48383,Reagan,County,Texas,0.08
+48385,Real,County,Texas,1.32
+48387,Red River,County,Texas,0.31
+48389,Reeves,County,Texas,0.06
+48391,Refugio,County,Texas,0.03
+48393,Roberts,County,Texas,0.00
+48395,Robertson,County,Texas,0.26
+48397,Rockwall,County,Texas,1.75
+48399,Runnels,County,Texas,0.66
+48401,Rusk,County,Texas,0.41
+48403,Sabine,County,Texas,0.80
+48405,San Augustine,County,Texas,0.45
+48407,San Jacinto,County,Texas,0.79
+48409,San Patricio,County,Texas,0.25
+48411,San Saba,County,Texas,1.37
+48413,Schleicher,County,Texas,2.63
+48415,Scurry,County,Texas,0.22
+48417,Shackelford,County,Texas,0.01
+48419,Shelby,County,Texas,0.54
+48421,Sherman,County,Texas,0.00
+48423,Smith,County,Texas,1.18
+48425,Somervell,County,Texas,1.56
+48427,Starr,County,Texas,0.27
+48429,Stephens,County,Texas,0.24
+48431,Sterling,County,Texas,0.42
+48433,Stonewall,County,Texas,0.03
+48435,Sutton,County,Texas,6.05
+48437,Swisher,County,Texas,0.04
+48439,Tarrant,County,Texas,1.10
+48441,Taylor,County,Texas,0.46
+48443,Terrell,County,Texas,1.49
+48445,Terry,County,Texas,0.28
+48447,Throckmorton,County,Texas,0.02
+48449,Titus,County,Texas,0.53
+48451,Tom Green,County,Texas,3.41
+48453,Travis,County,Texas,1.91
+48455,Trinity,County,Texas,0.39
+48457,Tyler,County,Texas,0.91
+48459,Upshur,County,Texas,1.25
+48461,Upton,County,Texas,0.41
+48463,Uvalde,County,Texas,2.19
+48465,Val Verde,County,Texas,2.09
+48467,Van Zandt,County,Texas,0.89
+48469,Victoria,County,Texas,0.14
+48471,Walker,County,Texas,0.49
+48473,Waller,County,Texas,0.95
+48475,Ward,County,Texas,0.01
+48477,Washington,County,Texas,0.40
+48479,Webb,County,Texas,0.16
+48481,Wharton,County,Texas,0.11
+48483,Wheeler,County,Texas,0.02
+48485,Wichita,County,Texas,0.32
+48487,Wilbarger,County,Texas,0.05
+48489,Willacy,County,Texas,0.10
+48491,Williamson,County,Texas,1.82
+48493,Wilson,County,Texas,0.72
+48495,Winkler,County,Texas,0.01
+48497,Wise,County,Texas,1.50
+48499,Wood,County,Texas,0.93
+48501,Yoakum,County,Texas,0.13
+48503,Young,County,Texas,0.18
+48505,Zapata,County,Texas,0.14
+48507,Zavala,County,Texas,0.25
+49001,Beaver,County,Utah,(D)
+49003,Box Elder,County,Utah,0.14
+49005,Cache,County,Utah,0.20
+49007,Carbon,County,Utah,0.08
+49009,Daggett,County,Utah,(D)
+49011,Davis,County,Utah,0.55
+49013,Duchesne,County,Utah,0.07
+49015,Emery,County,Utah,0.16
+49017,Garfield,County,Utah,0.05
+49019,Grand,County,Utah,(D)
+49021,Iron,County,Utah,0.08
+49023,Juab,County,Utah,0.03
+49025,Kane,County,Utah,0.05
+49027,Millard,County,Utah,0.08
+49029,Morgan,County,Utah,0.09
+49031,Piute,County,Utah,0.00
+49033,Rich,County,Utah,0.03
+49035,Salt Lake,County,Utah,0.67
+49037,San Juan,County,Utah,0.22
+49039,Sanpete,County,Utah,0.14
+49041,Sevier,County,Utah,0.76
+49043,Summit,County,Utah,0.05
+49045,Tooele,County,Utah,0.09
+49047,Uintah,County,Utah,(D)
+49049,Utah,County,Utah,0.24
+49051,Wasatch,County,Utah,0.07
+49053,Washington,County,Utah,0.77
+49055,Wayne,County,Utah,0.07
+49057,Weber,County,Utah,0.33
+50001,Addison,County,Vermont,0.86
+50003,Bennington,County,Vermont,0.62
+50005,Caledonia,County,Vermont,0.60
+50007,Chittenden,County,Vermont,0.36
+50009,Essex,County,Vermont,0.00
+50011,Franklin,County,Vermont,0.65
+50013,Grand Isle,County,Vermont,0.63
+50015,Lamoille,County,Vermont,0.99
+50017,Orange,County,Vermont,0.15
+50019,Orleans,County,Vermont,1.37
+50021,Rutland,County,Vermont,0.61
+50023,Washington,County,Vermont,0.31
+50025,Windham,County,Vermont,1.25
+50027,Windsor,County,Vermont,2.47
+51001,Accomack,County,Virginia,0.25
+51003,Albemarle,County,Virginia,0.60
+51005,Alleghany,County,Virginia,0.48
+51007,Amelia,County,Virginia,0.56
+51009,Amherst,County,Virginia,0.57
+51011,Appomattox,County,Virginia,0.18
+51013,Arlington,County,Virginia,0.00
+51015,Augusta,County,Virginia,0.65
+51017,Bath,County,Virginia,0.18
+51019,Bedford,County,Virginia,0.55
+51021,Bland,County,Virginia,0.30
+51023,Botetourt,County,Virginia,0.45
+51025,Brunswick,County,Virginia,0.40
+51027,Buchanan,County,Virginia,2.67
+51029,Buckingham,County,Virginia,0.46
+51031,Campbell,County,Virginia,0.42
+51033,Caroline,County,Virginia,0.56
+51035,Carroll,County,Virginia,0.42
+51036,Charles City,County,Virginia,0.70
+51037,Charlotte,County,Virginia,0.33
+51041,Chesterfield,County,Virginia,2.30
+51043,Clarke,County,Virginia,1.08
+51045,Craig,County,Virginia,0.25
+51047,Culpeper,County,Virginia,0.62
+51049,Cumberland,County,Virginia,1.17
+51051,Dickenson,County,Virginia,0.84
+51053,Dinwiddie,County,Virginia,0.38
+51057,Essex,County,Virginia,0.14
+51059,Fairfax,County,Virginia,1.12
+51061,Fauquier,County,Virginia,0.70
+51063,Floyd,County,Virginia,0.35
+51065,Fluvanna,County,Virginia,0.23
+51067,Franklin,County,Virginia,0.59
+51069,Frederick,County,Virginia,0.59
+51071,Giles,County,Virginia,0.64
+51073,Gloucester,County,Virginia,1.36
+51075,Goochland,County,Virginia,0.44
+51077,Grayson,County,Virginia,0.29
+51079,Greene,County,Virginia,0.90
+51081,Greensville,County,Virginia,0.34
+51083,Halifax,County,Virginia,0.75
+51085,Hanover,County,Virginia,0.41
+51087,Henrico,County,Virginia,2.58
+51089,Henry,County,Virginia,0.88
+51091,Highland,County,Virginia,(D)
+51093,Isle of Wight,County,Virginia,0.58
+51095,James City,County,Virginia,0.60
+51097,King and Queen,County,Virginia,0.66
+51099,King George,County,Virginia,0.33
+51101,King William,County,Virginia,0.39
+51103,Lancaster,County,Virginia,0.00
+51105,Lee,County,Virginia,0.72
+51107,Loudoun,County,Virginia,0.74
+51109,Louisa,County,Virginia,1.18
+51111,Lunenburg,County,Virginia,0.22
+51113,Madison,County,Virginia,0.31
+51115,Mathews,County,Virginia,0.52
+51117,Mecklenburg,County,Virginia,0.51
+51119,Middlesex,County,Virginia,0.32
+51121,Montgomery,County,Virginia,1.00
+51125,Nelson,County,Virginia,0.75
+51127,New Kent,County,Virginia,0.65
+51131,Northampton,County,Virginia,(D)
+51133,Northumberland,County,Virginia,(D)
+51135,Nottoway,County,Virginia,1.72
+51137,Orange,County,Virginia,0.68
+51139,Page,County,Virginia,0.67
+51141,Patrick,County,Virginia,0.53
+51143,Pittsylvania,County,Virginia,0.34
+51145,Powhatan,County,Virginia,0.09
+51147,Prince Edward,County,Virginia,1.21
+51149,Prince George,County,Virginia,0.81
+51153,Prince William,County,Virginia,1.30
+51155,Pulaski,County,Virginia,0.39
+51157,Rappahannock,County,Virginia,0.66
+51159,Richmond,County,Virginia,(D)
+51161,Roanoke,County,Virginia,0.34
+51163,Rockbridge,County,Virginia,1.13
+51165,Rockingham,County,Virginia,1.18
+51167,Russell,County,Virginia,0.68
+51169,Scott,County,Virginia,0.50
+51171,Shenandoah,County,Virginia,1.20
+51173,Smyth,County,Virginia,0.60
+51175,Southampton,County,Virginia,0.42
+51177,Spotsylvania,County,Virginia,1.64
+51179,Stafford,County,Virginia,1.58
+51181,Surry,County,Virginia,(D)
+51183,Sussex,County,Virginia,0.12
+51185,Tazewell,County,Virginia,0.87
+51187,Warren,County,Virginia,0.67
+51191,Washington,County,Virginia,1.08
+51193,Westmoreland,County,Virginia,0.07
+51195,Wise,County,Virginia,1.55
+51197,Wythe,County,Virginia,0.47
+51199,York,County,Virginia,1.46
+51550,Chesapeake,City,Virginia,0.51
+51800,Suffolk,City,Virginia,0.43
+51810,Virginia Beach,City,Virginia,0.59
+53001,Adams,County,Washington,0.00
+53003,Asotin,County,Washington,0.04
+53005,Benton,County,Washington,0.16
+53007,Chelan,County,Washington,0.42
+53009,Clallam,County,Washington,1.08
+53011,Clark,County,Washington,2.14
+53013,Columbia,County,Washington,(D)
+53015,Cowlitz,County,Washington,0.90
+53017,Douglas,County,Washington,0.02
+53019,Ferry,County,Washington,0.03
+53021,Franklin,County,Washington,0.08
+53023,Garfield,County,Washington,0.01
+53025,Grant,County,Washington,0.07
+53027,Grays Harbor,County,Washington,0.31
+53029,Island,County,Washington,1.84
+53031,Jefferson,County,Washington,1.84
+53033,King,County,Washington,2.55
+53035,Kitsap,County,Washington,5.00
+53037,Kittitas,County,Washington,0.36
+53039,Klickitat,County,Washington,0.11
+53041,Lewis,County,Washington,0.73
+53043,Lincoln,County,Washington,0.04
+53045,Mason,County,Washington,1.16
+53047,Okanogan,County,Washington,0.07
+53049,Pacific,County,Washington,0.11
+53051,Pend Oreille,County,Washington,1.13
+53053,Pierce,County,Washington,2.64
+53055,San Juan,County,Washington,1.59
+53057,Skagit,County,Washington,0.43
+53059,Skamania,County,Washington,2.94
+53061,Snohomish,County,Washington,2.03
+53063,Spokane,County,Washington,0.34
+53065,Stevens,County,Washington,0.20
+53067,Thurston,County,Washington,2.37
+53069,Wahkiakum,County,Washington,(D)
+53071,Walla Walla,County,Washington,0.15
+53073,Whatcom,County,Washington,1.05
+53075,Whitman,County,Washington,0.05
+53077,Yakima,County,Washington,0.19
+54001,Barbour,County,West Virginia,0.17
+54003,Berkeley,County,West Virginia,1.09
+54005,Boone,County,West Virginia,(D)
+54007,Braxton,County,West Virginia,0.28
+54009,Brooke,County,West Virginia,(D)
+54011,Cabell,County,West Virginia,0.50
+54013,Calhoun,County,West Virginia,0.32
+54015,Clay,County,West Virginia,0.58
+54017,Doddridge,County,West Virginia,0.70
+54019,Fayette,County,West Virginia,0.75
+54021,Gilmer,County,West Virginia,0.37
+54023,Grant,County,West Virginia,0.61
+54025,Greenbrier,County,West Virginia,0.25
+54027,Hampshire,County,West Virginia,0.48
+54029,Hancock,County,West Virginia,(D)
+54031,Hardy,County,West Virginia,0.62
+54033,Harrison,County,West Virginia,0.46
+54035,Jackson,County,West Virginia,1.41
+54037,Jefferson,County,West Virginia,0.96
+54039,Kanawha,County,West Virginia,0.98
+54041,Lewis,County,West Virginia,0.57
+54043,Lincoln,County,West Virginia,0.82
+54045,Logan,County,West Virginia,(D)
+54047,McDowell,County,West Virginia,0.00
+54049,Marion,County,West Virginia,1.10
+54051,Marshall,County,West Virginia,0.64
+54053,Mason,County,West Virginia,0.54
+54055,Mercer,County,West Virginia,1.03
+54057,Mineral,County,West Virginia,0.64
+54059,Mingo,County,West Virginia,(D)
+54061,Monongalia,County,West Virginia,0.62
+54063,Monroe,County,West Virginia,0.28
+54065,Morgan,County,West Virginia,0.21
+54067,Nicholas,County,West Virginia,0.60
+54069,Ohio,County,West Virginia,0.24
+54071,Pendleton,County,West Virginia,0.28
+54073,Pleasants,County,West Virginia,0.58
+54075,Pocahontas,County,West Virginia,0.12
+54077,Preston,County,West Virginia,0.86
+54079,Putnam,County,West Virginia,0.69
+54081,Raleigh,County,West Virginia,0.29
+54083,Randolph,County,West Virginia,0.33
+54085,Ritchie,County,West Virginia,0.20
+54087,Roane,County,West Virginia,0.61
+54089,Summers,County,West Virginia,0.30
+54091,Taylor,County,West Virginia,0.22
+54093,Tucker,County,West Virginia,0.44
+54095,Tyler,County,West Virginia,0.18
+54097,Upshur,County,West Virginia,0.30
+54099,Wayne,County,West Virginia,0.94
+54101,Webster,County,West Virginia,0.57
+54103,Wetzel,County,West Virginia,0.86
+54105,Wirt,County,West Virginia,0.62
+54107,Wood,County,West Virginia,0.31
+54109,Wyoming,County,West Virginia,(D)
+55001,Adams,County,Wisconsin,0.06
+55003,Ashland,County,Wisconsin,0.02
+55005,Barron,County,Wisconsin,0.19
+55007,Bayfield,County,Wisconsin,0.13
+55009,Brown,County,Wisconsin,0.24
+55011,Buffalo,County,Wisconsin,0.10
+55013,Burnett,County,Wisconsin,0.09
+55015,Calumet,County,Wisconsin,0.36
+55017,Chippewa,County,Wisconsin,0.12
+55019,Clark,County,Wisconsin,0.54
+55021,Columbia,County,Wisconsin,0.54
+55023,Crawford,County,Wisconsin,0.34
+55025,Dane,County,Wisconsin,0.18
+55027,Dodge,County,Wisconsin,0.57
+55029,Door,County,Wisconsin,0.39
+55031,Douglas,County,Wisconsin,0.18
+55033,Dunn,County,Wisconsin,0.19
+55035,Eau Claire,County,Wisconsin,0.16
+55037,Florence,County,Wisconsin,0.94
+55039,Fond du Lac,County,Wisconsin,0.31
+55041,Forest,County,Wisconsin,0.17
+55043,Grant,County,Wisconsin,1.30
+55045,Green,County,Wisconsin,1.34
+55047,Green Lake,County,Wisconsin,0.11
+55049,Iowa,County,Wisconsin,0.41
+55051,Iron,County,Wisconsin,0.00
+55053,Jackson,County,Wisconsin,0.29
+55055,Jefferson,County,Wisconsin,0.30
+55057,Juneau,County,Wisconsin,0.64
+55059,Kenosha,County,Wisconsin,0.08
+55061,Kewaunee,County,Wisconsin,0.05
+55063,La Crosse,County,Wisconsin,0.16
+55065,Lafayette,County,Wisconsin,0.99
+55067,Langlade,County,Wisconsin,0.08
+55069,Lincoln,County,Wisconsin,(D)
+55071,Manitowoc,County,Wisconsin,0.69
+55073,Marathon,County,Wisconsin,0.18
+55075,Marinette,County,Wisconsin,0.09
+55077,Marquette,County,Wisconsin,0.10
+55078,Menominee,County,Wisconsin,0.00
+55079,Milwaukee,County,Wisconsin,(D)
+55081,Monroe,County,Wisconsin,0.63
+55083,Oconto,County,Wisconsin,0.42
+55085,Oneida,County,Wisconsin,0.15
+55087,Outagamie,County,Wisconsin,0.51
+55089,Ozaukee,County,Wisconsin,0.65
+55091,Pepin,County,Wisconsin,0.61
+55093,Pierce,County,Wisconsin,0.14
+55095,Polk,County,Wisconsin,0.27
+55097,Portage,County,Wisconsin,0.12
+55099,Price,County,Wisconsin,0.36
+55101,Racine,County,Wisconsin,0.45
+55103,Richland,County,Wisconsin,0.54
+55105,Rock,County,Wisconsin,0.34
+55107,Rusk,County,Wisconsin,0.09
+55109,St. Croix,County,Wisconsin,0.15
+55111,Sauk,County,Wisconsin,0.46
+55113,Sawyer,County,Wisconsin,0.11
+55115,Shawano,County,Wisconsin,1.80
+55117,Sheboygan,County,Wisconsin,0.29
+55119,Taylor,County,Wisconsin,0.06
+55121,Trempealeau,County,Wisconsin,0.20
+55123,Vernon,County,Wisconsin,0.61
+55125,Vilas,County,Wisconsin,1.22
+55127,Walworth,County,Wisconsin,0.42
+55129,Washburn,County,Wisconsin,0.16
+55131,Washington,County,Wisconsin,0.17
+55133,Waukesha,County,Wisconsin,0.15
+55135,Waupaca,County,Wisconsin,0.39
+55137,Waushara,County,Wisconsin,1.55
+55139,Winnebago,County,Wisconsin,0.13
+55141,Wood,County,Wisconsin,0.12
+56001,Albany,County,Wyoming,0.01
+56003,Big Horn,County,Wyoming,0.40
+56005,Campbell,County,Wyoming,0.01
+56007,Carbon,County,Wyoming,(D)
+56009,Converse,County,Wyoming,0.01
+56011,Crook,County,Wyoming,(D)
+56013,Fremont,County,Wyoming,0.06
+56015,Goshen,County,Wyoming,0.04
+56017,Hot Springs,County,Wyoming,0.04
+56019,Johnson,County,Wyoming,0.04
+56021,Laramie,County,Wyoming,0.11
+56023,Lincoln,County,Wyoming,0.07
+56025,Natrona,County,Wyoming,0.01
+56027,Niobrara,County,Wyoming,0.00
+56029,Park,County,Wyoming,0.08
+56031,Platte,County,Wyoming,0.01
+56033,Sheridan,County,Wyoming,0.01
+56035,Sublette,County,Wyoming,0.03
+56037,Sweetwater,County,Wyoming,0.01
+56039,Teton,County,Wyoming,0.03
+56041,Uinta,County,Wyoming,0.06
+56043,Washakie,County,Wyoming,0.06
+56045,Weston,County,Wyoming,0.00

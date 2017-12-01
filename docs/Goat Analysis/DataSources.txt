@@ -1,0 +1,11 @@
+Goats:
+2012 Census of Agriculture - Web Maps
+Metadata Updated: August 31, 2017 
+
+The Census of Agriculture provides a detailed picture every five years of U.S. farms and ranches and the people who operate them. Conducted by USDA’s National Agricultural Statistics Service, the 2012 Census of Agriculture collected more than six million data items directly from farmers. The Ag Census Web Maps application makes this information available at the county level through a few clicks. The maps and accompanying data help users visualize, download, and analyze Census of Agriculture data in a geospatial context.
+
+20m County Shapefile:
+https://www.census.gov/geo/maps-data/data/cbf/cbf_counties.html
+
+Population data:
+https://www2.census.gov/programs-surveys/popest/datasets/2010-2016/counties/totals/
