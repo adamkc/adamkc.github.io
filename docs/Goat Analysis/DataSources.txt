@@ -1,4 +1,6 @@
 Goats:
+https://www.agcensus.usda.gov/Publications/2012/Online_Resources/Ag_Census_Web_Maps/Data_download/index.php
+Excel Column 'BE' or variable y12_M295
 2012 Census of Agriculture - Web Maps
 Metadata Updated: August 31, 2017 
 
