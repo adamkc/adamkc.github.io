@@ -27,7 +27,7 @@ popdf %<>% group_by(STNAME,CTYNAME) %>% summarise(POP = sum(POPESTIMATE2016)) %>
 counties@data$CountyNameLong <- paste(counties@data$CountyName, counties@data$Entity)
 counties@data %<>% left_join(y = popdf)
 
-counties@data$Label <- paste0("<b>",counties@data$NAME, "</b>",
+counties@data$Label <- paste("<strong>",counties@data$NAME, "</strong>",
                               "<br/>","Goats: ",round(counties@data$Goats*(counties@data$ALAND/404686),0),
                               "<br/>","People: ",counties@data$HumanPop,
                               "<br/>","Goat Per Person: ",round(counties@data$GoatperPerson,3)
@@ -61,7 +61,7 @@ goatmap <- leaflet(counties) %>% setView(lng = -99.744289, lat = 39.138261, zoom
               label=~stringr::str_c(
                 CountyNameLong, " -- Goats/Person:  ",
                 formatC(GoatperPerson, big.mark = ',', format='f')),
-              labelOptions= labelOptions(direction = 'auto',textsize = "14px"),
+              labelOptions= labelOptions(direction = 'auto',textsize = "12px"),
               highlightOptions = highlightOptions(
                 color='#ff0000', opacity = 1, weight = 2, fillOpacity = 1,
                 bringToFront = TRUE, sendToBack = TRUE)) %>%
