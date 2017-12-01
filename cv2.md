@@ -54,6 +54,8 @@ Publications
 ----------------------------------------
 
 * Published:
+
+     * THESIS: [Evolution of an aquatic courtship pheromone in the genus *Taricha*](http://hdl.handle.net/10211.3/143190)
      * :(
 
 * In Review:
