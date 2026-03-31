@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(find /tmp/milwaukee-weather -type f -not -path */.git/*)",
+      "Bash(Rscript retrieve_data.R)",
+      "Bash(where.exe Rscript)",
+      "Read(//c/Program Files/R/**)",
+      "Read(//c/Program Files \\(x86\\)/**)",
+      "Bash(\"/c/Program Files/R/R-4.4.1/bin/Rscript.exe\" retrieve_data.R)",
+      "Bash(\"/c/Program Files/R/R-4.4.1/bin/Rscript.exe\" -e \"install.packages\\(c\\(''R.utils'', ''data.table'', ''ggrepel''\\), repos=''https://cloud.r-project.org''\\)\")",
+      "Bash(\"/c/Program Files/R/R-4.4.1/bin/Rscript.exe\" build_cumulative_precip.R)",
+      "Bash(\"/c/Program Files/R/R-4.4.1/bin/Rscript.exe\" build_daily_temps.R)",
+      "Bash(find /c/Users/adamk/Documents/GitHub/adamkc.github.io -type f -name *process* -o -type d -name *process*)",
+      "Bash(find /c/Users/adamk/Documents/GitHub/adamkc.github.io -type f -name *process* -o -name *space*)",
+      "Bash(gh repo:*)"
+    ]
+  }
+}
