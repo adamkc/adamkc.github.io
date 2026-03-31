@@ -47,7 +47,7 @@ this_year <- cumulative %>%
 # Date labels for x-axis
 date_breaks <- as.Date(paste0(current_year, "-", 1:12, "-01"))
 date_doy <- yday(date_breaks)
-month_labels <- month(date_breaks, label = TRUE)
+month_labels <- month(date_breaks)
 
 # Find where current year stands vs. median at latest day
 latest <- this_year %>% filter(doy == max(doy))
