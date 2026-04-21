@@ -39,7 +39,7 @@ weather <- weather %>%
   )
 
 # Write output
-out_dir <- file.path(dirname(dirname(getwd())), "docs", "arcata-weather")
+out_dir <- "../../docs/arcata-weather"
 if (!dir.exists(out_dir)) dir.create(out_dir, recursive = TRUE)
 write_csv(weather, file.path(out_dir, "ghcn_arcata.csv"))
 
