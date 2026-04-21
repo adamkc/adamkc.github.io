@@ -54,4 +54,5 @@ jobs:
           git add images/arcata-cumulative-precip.png
           git add images/arcata-daily-high.png
           git diff --staged --quiet || git commit -m "Update Arcata weather charts $(date +'%Y-%m-%d')"
+          git pull --rebase origin master
           git push
