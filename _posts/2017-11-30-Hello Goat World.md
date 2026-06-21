@@ -15,4 +15,4 @@ Probably very related to this post, we had goats growing up.  Here's a photo of 
 
 ![Goofy and Diablo](/images/GoatsPhoto.JPG)
 
-I think someday I'll be embarassed by this first post to my blog (and maybe unpublish it) but right now I'm very happy to share knowledge about goats.
+I think someday I'll be embarrassed by this first post to my blog (and maybe unpublish it) but right now I'm very happy to share knowledge about goats.
