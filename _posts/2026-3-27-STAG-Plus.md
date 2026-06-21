@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Auto-Tagging and Rating 13,000 Photos with AI
 ---
